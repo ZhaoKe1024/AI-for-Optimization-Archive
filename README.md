@@ -9,18 +9,25 @@ Repository on the application of artificial intelligence technology in the field
 
 ## Multi-Agent
 - CoE
-    > ICLR2024. Chain-of-Experts: When LLMs Meet Complex Operations Research Problems, openreview [link](https://openreview.net/forum?id=HobyL1B9CZ), [Ziyang Xiao](https://openreview.net/profile?id=~Ziyang_Xiao2), [Dongxiang Zhang](https://openreview.net/profile?id=~Dongxiang_Zhang2), [Yangjun Wu](https://openreview.net/profile?id=~Yangjun_Wu1), [Lilin Xu](https://openreview.net/profile?id=~Lilin_Xu2), [Yuan Jessica Wang](https://openreview.net/profile?id=~Yuan_Jessica_Wang1), [Xiongwei Han](https://openreview.net/profile?id=~Xiongwei_Han1), [Xiaojin Fu](https://openreview.net/profile?id=~Xiaojin_Fu1), [Tao Zhong](https://openreview.net/profile?id=~Tao_Zhong2), [Jia Zeng](https://openreview.net/profile?id=~Jia_Zeng1), [Mingli Song](https://openreview.net/profile?id=~Mingli_Song1), [Gang Chen](https://openreview.net/profile?id=~Gang_Chen6) (ZJU, huawei, PolyUHK)
+    > ICLR2024. Chain-of-Experts: When LLMs Meet Complex Operations Research Problems, openreview [link](https://openreview.net/forum?id=HobyL1B9CZ), [Github page](https://github.com/xzymustbexzy/Chain-of-Experts).[Ziyang Xiao](https://openreview.net/profile?id=~Ziyang_Xiao2), [Dongxiang Zhang (ZJU)](https://openreview.net/profile?id=~Dongxiang_Zhang2), [Yangjun Wu](https://openreview.net/profile?id=~Yangjun_Wu1), [Lilin Xu](https://openreview.net/profile?id=~Lilin_Xu2), [Yuan Jessica Wang](https://openreview.net/profile?id=~Yuan_Jessica_Wang1), [Xiongwei Han](https://openreview.net/profile?id=~Xiongwei_Han1), [Xiaojin Fu](https://openreview.net/profile?id=~Xiaojin_Fu1), [Tao Zhong](https://openreview.net/profile?id=~Tao_Zhong2), [Jia Zeng](https://openreview.net/profile?id=~Jia_Zeng1), [Mingli Song](https://openreview.net/profile?id=~Mingli_Song1), [Gang Chen](https://openreview.net/profile?id=~Gang_Chen6) (ZJU, huawei, PolyUHK)
 - OptiMUS
-    > ICML2024. OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models. openreview [link](https://openreview.net/forum?id=YT1dtdLvSN), [Ali AhmadiTeshnizi](https://openreview.net/profile?id=~Ali_AhmadiTeshnizi1), [Wenzhi Gao](https://openreview.net/profile?id=~Wenzhi_Gao1), [Madeleine Udell](https://openreview.net/profile?id=~Madeleine_Udell1) (Stanford)
+    > ICML2024. OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models. openreview [link](https://openreview.net/forum?id=YT1dtdLvSN), [ACM ICML page](https://dl.acm.org/doi/10.5555/3692070.3692094). [Github page/teshnizi](https://github.com/teshnizi/OptiMUS). [Ali AhmadiTeshnizi](https://openreview.net/profile?id=~Ali_AhmadiTeshnizi1), [Wenzhi Gao](https://openreview.net/profile?id=~Wenzhi_Gao1), [Madeleine Udell](https://openreview.net/profile?id=~Madeleine_Udell1) (Stanford)
 - LEAN-LLM-OPT
     > arXiv 2026: LLM for Large-Scale Optimization Model Auto-Formulation: Bridging Flexibility and Standardization via Agentic Workflow. Kuo Liang, Yuhang Lu, Jianming Mao, Shuyi Sun, Chunwei Yang, Congcong Zeng, Xiao Jin, Hanzhang Qin, Ruihao Zhu, Chung-Piaw Teo. arXiv [link](https://arxiv.org/abs/2601.09635)
     > SSRN 2025: LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach. ssrn [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329027), Github [link](https://github.com/CoraLiang01/LEAN-LLM-OPT)
 - ICLR2025 Planning Anything with Rigor: General-Purpose Zero-Shot Planning with LLM-based Formalized Programming. [arXiv link](https://arxiv.org/abs/2410.12112). Github: [link1](https://github.com/yih301/LLMFP), [link2](https://github.com/Rmcrow/LLMFP-llm-planning). Blog: [link](https://news.mit.edu/2025/researchers-teach-llms-to-solve-complex-planning-challenges-0402)
 - OptiVer
-    > [OptiVer: Unleashing the Power of LLMs for Optimization Modeling](https://openreview.net/forum?id=w696Vhv5B2)
+    > OptiVer: Unleashing the Power of LLMs for Optimization Modeling. [openreview link](https://openreview.net/forum?id=w696Vhv5B2)
 - OR-LLM-Agent
     > OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problems with Reasoning LLM. Bowen Zhang, Pengcheng Luo, Genke Yang (SJTU.edu.cn), Boon-Hee Soong, Chau Yuen (NTU.sg). arXiv [link](https://arxiv.org/abs/2503.10009), openreview [link](https://openreview.net/forum?id=G2yRrFdEmK).
     > [Github Code](https://github.com/bwz96sco/or_llm_agent). [Huggingface Datasets](https://huggingface.co/datasets/SJTU/BWOR)
+- SAC-OPT
+    > arXiv: Optimization Modeling via Semantic Anchored Alignment. [arXiv link](https://arxiv.org/abs/2510.05115v1)
+    > ICLR2026 reject: SAC-Opt: Semantic Anchors for Iterative Correction in Optimization Modeling. [openreview link](https://openreview.net/forum?id=RBdSRJtpjk)
+- OptiMind
+    > OptiMind: Teaching LLMs to Think Like Optimization Experts. [arxiv link](https://arxiv.org/abs/2509.22979). [openreview link](https://openreview.net/forum?id=CvwLtwlraW).  Xinzhi Zhang, Zeyi Chen, Humishka Zope, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li
+    > 
+- OptiGuide [Github link](https://github.com/microsoft/OptiGuide)
 
 ## SFT
 - CAFA
@@ -51,7 +58,9 @@ Repository on the application of artificial intelligence technology in the field
 
 ## RAG
 - AlphaOPT
-    > AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library. [Openreview link](https://openreview.net/forum?id=aWzHdUUaT8)
+    > AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library. 
+    > [NIPS2025 workshop openreview link](https://openreview.net/forum?id=xEdavqGjRu)
+    > [ICLR2026 reject Openreview link](https://openreview.net/forum?id=aWzHdUUaT8). [arXiv page](https://arxiv.org/abs/2510.18428).[Minwei Kong](https://openreview.net/profile?id=~Minwei_Kong1), [Ao Qu](https://openreview.net/profile?id=~Ao_Qu1), [Xiaotong Guo](https://openreview.net/profile?id=~Xiaotong_Guo1), [Wenbin Ouyang](https://openreview.net/profile?id=~Wenbin_Ouyang1), [Chonghe Jiang](https://openreview.net/profile?id=~Chonghe_Jiang1), [Han Zheng](https://openreview.net/profile?id=~Han_Zheng5), [Yining Ma](https://openreview.net/profile?id=~Yining_Ma1), [Dingyi Zhuang](https://openreview.net/profile?id=~Dingyi_Zhuang1), [Yuhan Tang](https://openreview.net/profile?id=~Yuhan_Tang3), [Junyi Li](https://openreview.net/profile?id=~Junyi_Li15), [Hai Wang](https://openreview.net/profile?id=~Hai_Wang5), [Cathy Wu](https://openreview.net/profile?id=~Cathy_Wu1), [Jinhua Zhao](https://openreview.net/profile?id=~Jinhua_Zhao2).
 
 ## Datasets
 - OptMATH-Train
@@ -67,7 +76,8 @@ Repository on the application of artificial intelligence technology in the field
 ### Benchmarks
 - NL4OPT
 - Mamo
-    > Github: [link](https://github.com/FreedomIntelligence/Mamo)
+    > Mamo: a Mathematical Modeling Benchmark with Solvers. [arxiv link](https://arxiv.org/abs/2405.13144v1)
+    > Github: [link](https://github.com/FreedomIntelligence/Mamo). [Huggingface link](https://huggingface.co/papers/2405.13144)
 - ComplexOR (CoE)
 - NLP4LP (OptiMUS)
 - OptMATH-Bench
@@ -75,25 +85,38 @@ Repository on the application of artificial intelligence technology in the field
 - ICML.C
 - OptiBench
 - CO-BENCH
+    > CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization. Weiwei Sun, Shengyu Feng, Shanda Li, Yiming Yang (CMU). 
+    > [Github page](https://github.com/sunnweiwei/CO-Bench), [Huggingface page](https://huggingface.co/datasets/CO-Bench/CO-Bench)
 - LogiOR
+    > Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning. [arXiv page](https://arxiv.org/abs/2508.14410). [Huggingface page](https://huggingface.co/datasets/LabMem012/LogiOR). Beinuo Yang and Qishen Zhou and Junyi Li and Chenxing Su and Simon Hu.
 - IndusCP (ConstraintLLM)
+    > ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming, [EMNLP ACL Page](https://aclanthology.org/2025.emnlp-main.809/), [arXiv link](https://arxiv.org/abs/2510.05774). [Github page](https://github.com/william4s/ConstraintLLM). Weichun Shi, Minghao Liu, Wanting Zhang, Langchen Shi, Fuqi Jia, Feifei Ma, Jian Zhang. 
 
 
 ## DeepLearning for Optimization
 - BPP-Search
     > ACL2025 [BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical Modeling Problem Solving]()
 - Towards Imitation Learning to Branch for MIP: A Hybrid Reinforcement Learning based Sample Augmentation Approach. openreview [link](https://openreview.net/forum?id=NdcQQ82mfy). [Changwen Zhang](https://openreview.net/profile?id=~Changwen_Zhang1), [Wenli Ouyang](https://openreview.net/profile?id=~Wenli_Ouyang1), [Hao Yuan](https://openreview.net/profile?id=~Hao_Yuan5), [Liming Gong](https://openreview.net/profile?id=~Liming_Gong1), [Yong Sun](https://openreview.net/profile?id=~Yong_Sun1), [Ziao Guo](https://openreview.net/profile?id=~Ziao_Guo1), [Zhichen Dong](https://openreview.net/profile?id=~Zhichen_Dong1), [Junchi Yan](https://openreview.net/profile?id=~Junchi_Yan2)
+- ACL2019. Modeling Intra-Relation in Math Word Problems with Different Functional Multi-Head Attentions. Jierui Li, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai, [Dongxiang Zhang](https://openreview.net/profile?id=~Dongxiang_Zhang2)
+- TPAMI2020. The Gap of Semantic Parsing: A Survey on Automatic Math Word Problem Solvers. Dongxiang Zhang, Lei Wang, Luming Zhang, Bing Tian Dai, Heng Tao Shen.
+- Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models, [ACM KDD link](https://dl.acm.org/doi/10.1145/3711896.3736923)
 
 ## LLMs for Heuristics
 - AlphaEvolve
+
 - EoH
     > GitHub: [link](https://github.com/FeiLiu36/EoH)
+
 - ReEvo
+
 - FM-Agent
     > Github: [link](https://github.com/baidubce/FM-Agent)
+
 - ARS+RouteBench
     > [ARS Automatic Routing Solver with Large Language Models]()
-- Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models. [ACM KDD link](https://dl.acm.org/doi/10.1145/3711896.3736923).
+
+- Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models. [ACM KDD link](https://dl.acm.org/doi/10.1145/3711896.3736923). Xuan Wu, Di Wang, Chunguo Wu, Lijie Wen, Chunyan Miao, Yubin Xiao, You Zhou.
+
 ## modeling language
 - OR-Tools
     > Document [link](https://developers.google.cn/optimization/introduction?hl=zh-cn). Github [link](https://github.com/google/or-tools).
@@ -122,6 +145,7 @@ Repository on the application of artificial intelligence technology in the field
 
 ## MathModel
 - MM-Agent
+- ICLR2025 MATHMO: Automated Mathematical Modeling Through Adaptive Search. [openreview link](https://openreview.net/forum?id=t2fZ2GOwAT)
 
 # LLMs for Complex Real word Math Problem
 Focusing on AI for Research / AI for Science
@@ -139,6 +163,9 @@ How to apply optimization model to enhance the LLMs?
 - Light-MILPopt: Solving Large-scale Mixed Integer Linear Programs with Lightweight Optimizer and Small-scale Training Dataset. [Huigen Ye](https://openreview.net/profile?id=~Huigen_Ye1), Hua Xu, Hongyan Wang. openreview [link](https://openreview.net/forum?id=2oWRumm67L)
 - HGCN2SP: Hierarchical Graph Convolutional Network for Two-Stage Stochastic Programming. openreview[ link](https://openreview.net/forum?id=8onaVSFTEj), [Yang Wu](https://openreview.net/profile?id=~Yang_Wu8), [Yifan Zhang](https://openreview.net/profile?id=~Yifan_Zhang2), [Zhenxing Liang](https://openreview.net/profile?id=~Zhenxing_Liang1), [Jian Cheng](https://openreview.net/profile?id=~Jian_Cheng7)
 
+
+# Some LLMs for Math
+- The Lessons of Developing Process Reward Models in Mathematical Reasoning. [arxiv link](https://arxiv.org/abs/2501.07301)
 
 Extract Script for openreview page
 ```javascript
