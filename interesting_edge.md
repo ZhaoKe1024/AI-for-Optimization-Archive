@@ -6,6 +6,7 @@ Learning to Handle Constraints in Routing Problems via a Construct-and-Refine Fr
 
 
 ## 集群1
+- ACL2019. Modeling Intra-Relation in Math Word Problems with Different Functional Multi-Head Attentions. Jierui Li, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai, [Dongxiang Zhang](https://openreview.net/profile?id=~Dongxiang_Zhang2)
 - CoE
     > ICLR2024. Chain-of-Experts: When LLMs Meet Complex Operations Research Problems, openreview [link](https://openreview.net/forum?id=HobyL1B9CZ), [Github page](https://github.com/xzymustbexzy/Chain-of-Experts).
     > [Ziyang Xiao](https://openreview.net/profile?id=~Ziyang_Xiao2), [Dongxiang Zhang (ZJU)](https://openreview.net/profile?id=~Dongxiang_Zhang2), [Yangjun Wu](https://openreview.net/profile?id=~Yangjun_Wu1), [Lilin Xu](https://openreview.net/profile?id=~Lilin_Xu2), [Yuan Jessica Wang](https://openreview.net/profile?id=~Yuan_Jessica_Wang1), **[Xiongwei Han](https://openreview.net/profile?id=~Xiongwei_Han1)**, [Xiaojin Fu](https://openreview.net/profile?id=~Xiaojin_Fu1), [Tao Zhong](https://openreview.net/profile?id=~Tao_Zhong2), [Jia Zeng](https://openreview.net/profile?id=~Jia_Zeng1), [Mingli Song](https://openreview.net/profile?id=~Mingli_Song1), [Gang Chen](https://openreview.net/profile?id=~Gang_Chen6) (ZJU, huawei, PolyUHK)
@@ -23,6 +24,10 @@ Learning to Handle Constraints in Routing Problems via a Construct-and-Refine Fr
     > [arXiv link](https://www.arxiv.org/abs/2510.22192)
     > [Github link](https://github.com/MIRALab-USTC/OptiTree/tree/main)
     > Haoyang Liu, Jie Wang, Yuyang Cai, Xiongwei Han, Yufei Kuang, Jianye Hao
+- ARS Automatic Routing Solver with Large Language Models
+    > Kai Li, **Fei Liu**, **Zhenkun Wang**, Xialiang Tong, **Xiongwei Han**, Mingxuan Yuan, Qingfu Zhang
+    > [openreview link](https://openreview.net/forum?id=Tw1kyA5akb)
+    > [Github link](https://github.com/Ahalikai/ARS-Routbench/blob/main/README.md)
 
 ## 集群2
 - Towards Foundation Models for Mixed Integer Linear Programming
@@ -31,7 +36,10 @@ Learning to Handle Constraints in Routing Problems via a Construct-and-Refine Fr
 - AlphaOPT
     > AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library. 
     > [NIPS2025 workshop openreview link](https://openreview.net/forum?id=xEdavqGjRu)
-    > [ICLR2026 reject Openreview link](https://openreview.net/forum?id=aWzHdUUaT8). [arXiv page](https://arxiv.org/abs/2510.18428).[Minwei Kong](https://openreview.net/profile?id=~Minwei_Kong1), [Ao Qu](https://openreview.net/profile?id=~Ao_Qu1), [Xiaotong Guo](https://openreview.net/profile?id=~Xiaotong_Guo1), **[Wenbin Ouyang](https://openreview.net/profile?id=~Wenbin_Ouyang1)**, [Chonghe Jiang](https://openreview.net/profile?id=~Chonghe_Jiang1), [Han Zheng](https://openreview.net/profile?id=~Han_Zheng5), **[Yining Ma](https://openreview.net/profile?id=~Yining_Ma1)**, [Dingyi Zhuang](https://openreview.net/profile?id=~Dingyi_Zhuang1), [Yuhan Tang](https://openreview.net/profile?id=~Yuhan_Tang3), [Junyi Li](https://openreview.net/profile?id=~Junyi_Li15), [Hai Wang](https://openreview.net/profile?id=~Hai_Wang5), [Cathy Wu](https://openreview.net/profile?id=~Cathy_Wu1), [Jinhua Zhao](https://openreview.net/profile?id=~Jinhua_Zhao2).
+    > [ICLR2026 reject Openreview link](https://openreview.net/forum?id=aWzHdUUaT8). [arXiv page](https://arxiv.org/abs/2510.18428).[Minwei Kong](https://openreview.net/profile?id=~Minwei_Kong1), [Ao Qu](https://openreview.net/profile?id=~Ao_Qu1), [Xiaotong Guo](https://openreview.net/profile?id=~Xiaotong_Guo1), **[Wenbin Ouyang](https://openreview.net/profile?id=~Wenbin_Ouyang1)**, [Chonghe Jiang](https://openreview.net/profile?id=~Chonghe_Jiang1), [Han Zheng](https://openreview.net/profile?id=~Han_Zheng5), **[Yining Ma](https://openreview.net/profile?id=~Yining_Ma1)**, [Dingyi Zhuang](https://openreview.net/profile?id=~Dingyi_Zhuang1), [Yuhan Tang](https://openreview.net/profile?id=~Yuhan_Tang3), **[Junyi Li](https://openreview.net/profile?id=~Junyi_Li15)**, [Hai Wang](https://openreview.net/profile?id=~Hai_Wang5), [Cathy Wu](https://openreview.net/profile?id=~Cathy_Wu1), [Jinhua Zhao](https://openreview.net/profile?id=~Jinhua_Zhao2).
+- LogiOR
+    > Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning. [arXiv page](https://arxiv.org/abs/2508.14410). [Huggingface page](https://huggingface.co/datasets/LabMem012/LogiOR).
+    > Beinuo Yang and [Qishen Zhou](https://openreview.net/profile?id=~Qishen_Zhou2) and **[Junyi Li](https://openreview.net/profile?id=~Junyi_Li15)** and Chenxing Su and [Simon Hu](https://openreview.net/profile?id=~Simon_Hu1).
 
-
+## 集群3
 
