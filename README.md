@@ -39,7 +39,7 @@ Repository on the application of artificial intelligence technology in the field
     > [openreview link](https://openreview.net/forum?id=DILQqCQIJ3)
 - OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling
     > NIPS 2025 Accept [openreview link](https://openreview.net/forum?id=Ej20yjWMCj)
-    > OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling, [Haoyang Liu](https://openreview.net/profile?id=~Haoyang_Liu2), [Jie Wang](https://openreview.net/profile?id=~Jie_Wang1), [Yuyang Cai](https://openreview.net/profile?id=~Yuyang_Cai4), **[Xiongwei Han](https://openreview.net/profile?id=~Xiongwei_Han1)**, **[Yufei Kuang](https://openreview.net/profile?id=~Yufei_Kuang1)**, [Jianye HAO](https://openreview.net/profile?id=~Jianye_HAO1),
+    > OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling, [Haoyang Liu](https://openreview.net/profile?id=~Haoyang_Liu2), **[Jie Wang](https://openreview.net/profile?id=~Jie_Wang1)**, [Yuyang Cai](https://openreview.net/profile?id=~Yuyang_Cai4), **[Xiongwei Han](https://openreview.net/profile?id=~Xiongwei_Han1)**, **[Yufei Kuang](https://openreview.net/profile?id=~Yufei_Kuang1)**, [Jianye HAO](https://openreview.net/profile?id=~Jianye_HAO1),
     > [arXiv link](https://www.arxiv.org/abs/2510.22192)
     > [Github link](https://github.com/MIRALab-USTC/OptiTree/tree/main)
     > Haoyang Liu, Jie Wang, Yuyang Cai, Xiongwei Han, Yufei Kuang, Jianye Hao
@@ -56,17 +56,21 @@ Repository on the application of artificial intelligence technology in the field
     > [Yansen Zhang](https://openreview.net/profile?id=~Yansen_Zhang1), [Qingcan Kang](https://openreview.net/profile?id=~Qingcan_Kang1), [Wing Yin YU](https://openreview.net/profile?id=~Wing_Yin_YU1), [HaileiGong](https://openreview.net/profile?id=~HaileiGong1), [Xiaojin Fu](https://openreview.net/profile?id=~Xiaojin_Fu1), **[Xiongwei Han](https://openreview.net/profile?id=~Xiongwei_Han1)**, [Tao Zhong](https://openreview.net/profile?id=~Tao_Zhong2), [Chen Ma](https://openreview.net/profile?id=~Chen_Ma3),
 
 ## SFT
-- CAFA
-    > NIPS 2023. CAFA: Coding as Auto-Formulation Can Boost Large Language Models in Solving Linear Programming Problem, , openreview [link](https://openreview.net/forum?id=xC2xtBLmri), [Haoxuan Deng](https://openreview.net/profile?id=~Haoxuan_Deng2), [Bohao Zheng](https://openreview.net/profile?email=bohao.zheng%40cranfield.ac.uk), [Yirui Jiang](https://openreview.net/profile?email=yirui.jiang%40cranfield.ac.uk), [Trung Hieu Tran](https://openreview.net/profile?email=t.h.tran%40cranfield.ac.uk)
+- CAFA: Coding as Auto-Formulation Can Boost Large Language Models in Solving Linear Programming Problem
+    > NIPS 2023. openreview [link](https://openreview.net/forum?id=xC2xtBLmri)
+    > Authors: [Haoxuan Deng](https://openreview.net/profile?id=~Haoxuan_Deng2), [Bohao Zheng](https://openreview.net/profile?email=bohao.zheng%40cranfield.ac.uk), [Yirui Jiang](https://openreview.net/profile?email=yirui.jiang%40cranfield.ac.uk), [Trung Hieu Tran](https://openreview.net/profile?email=t.h.tran%40cranfield.ac.uk)
 - ORLM
     > OR2025 ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling. [arXiv link](https://arxiv.org/abs/2405.17743), [OR Page](), [Github Link](https://github.com/Cardinal-Operations/ORLM)
-    > Chenyu Huang, Zhengyang Tang, Shixi Hu, Ruoqing Jiang, Xin Zheng, Dongdong Ge, Benyou Wang, Zizhuo Wang
+    > Authors: Chenyu Huang, Zhengyang Tang, Shixi Hu, Ruoqing Jiang, Xin Zheng, **[Dongdong Ge](https://openreview.net/profile?id=~Dongdong_Ge2)**, Benyou Wang, Zizhuo Wang
 - LLMOPT
-    > ICLR 2025 [LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch]()
+    > LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch
+    > ICLR 2025 [openreview link](https://openreview.net/forum?id=9OMvtboTJg)
+    > Authors: ECUN, Antgroup. [Caigao JIANG](https://openreview.net/profile?id=~Caigao_JIANG2), [Xiang Shu](https://openreview.net/profile?id=~Xiang_Shu1), [Hong Qian](https://openreview.net/profile?id=~Hong_Qian1), [Xingyu Lu](https://openreview.net/profile?id=~Xingyu_Lu2), [JUN ZHOU](https://openreview.net/profile?id=~JUN_ZHOU6), [Aimin Zhou](https://openreview.net/profile?id=~Aimin_Zhou1), [Yang Yu](https://openreview.net/profile?id=~Yang_Yu5)
 - OptMATH
-- StepORLM
-    > ICLR2026 Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling, Openreview [link](https://openreview.net/forum?id=80L235oVBe). NISP [link](https://neurips.cc/virtual/2025/loc/san-diego/poster/119660). [anonymous repository link](https://anonymous.4open.science/r/StepORLM-BEA9/README.md).
-    > [Chenyu Zhou](https://dblp.org/search/pid/api?q=author:Chenyu_Zhou:), [Tianyi Xu](https://dblp.org/search/pid/api?q=author:Tianyi_Xu:), [Jianghao Lin](https://openreview.net/profile?id=~Jianghao_Lin1), [Dongdong Ge](https://dblp.org/search/pid/api?q=author:Dongdong_Ge:)
+    > 
+- StepORLM: A Self-Evolving Framework With Generative Process Supervision For Operations Research Language Models
+    > ICLR2026 [arXiv link](https://arxiv.org/abs/2509.22558), [openreview link](https://openreview.net/forum?id=ZrgxU8WMmG), [anonymous repository link](https://anonymous.4open.science/r/StepORLM-BEA9/README.md).
+    > Authors: [Chenyu Zhou](https://dblp.org/search/pid/api?q=author:Chenyu_Zhou:), [Tianyi Xu](https://dblp.org/search/pid/api?q=author:Tianyi_Xu:), [Jianghao Lin](https://openreview.net/profile?id=~Jianghao_Lin1), [Dongdong Ge](https://dblp.org/search/pid/api?q=author:Dongdong_Ge)
 - Step-OPT
     > EMNLP2025 Training LLMs for Optimization Modeling via Iterative Data Synthesis and Structured Validation. [Yang Wu](https://openreview.net/profile?id=~Yang_Wu8), [Yifan Zhang](https://openreview.net/profile?id=~Yifan_Zhang2), Yurong Wu, Yuran Wang, Junkai Zhang, [Jian Cheng](https://openreview.net/profile?id=~Jian_Cheng7). ACL [link](https://aclanthology.org/2025.findings-emnlp.691/)
     > arXiv version: Step-Opt: Boosting Optimization Modeling in LLMs through Iterative Data Synthesis and Structured Validation. Yang Wu, Yifan Zhang, Yurong Wu, Yuran Wang, Junkai Zhang, Jian Cheng. arXiv [link](https://arxiv.org/abs/2506.17637), Github [link](https://github.com/samwu-learn/Step)
@@ -86,14 +90,14 @@ Repository on the application of artificial intelligence technology in the field
     > Zhiyuan Wang, Bokui Chen, Yinya Huang, Qingxing Cao, Ming He, Jianping Fan, Xiaodan Liang
 - MURKA: Multi-Reward Reinforcement Learning with Knowledge Alignment for Optimization Tasks
     > NIPS 2025. [openreview link](https://openreview.net/forum?id=f4pvPNf9ox)
-    > USTC. [Wantong Xie](https://openreview.net/profile?id=~Wantong_Xie1), [Yi-Xiang Hu](https://openreview.net/profile?id=~Yi-Xiang_Hu1), [Jieyang Xu](https://openreview.net/profile?id=~Jieyang_Xu1), [Feng Wu](https://openreview.net/profile?id=~Feng_Wu3), [Xiangyang Li](https://openreview.net/profile?id=~Xiangyang_Li4)
+    > USTC. [Wantong Xie](https://openreview.net/profile?id=~Wantong_Xie1), [Yi-Xiang Hu](https://openreview.net/profile?id=~Yi-Xiang_Hu1), [Jieyang Xu](https://openreview.net/profile?id=~Jieyang_Xu1), **[Feng Wu](https://openreview.net/profile?id=~Feng_Wu3)**, [Xiangyang Li](https://openreview.net/profile?id=~Xiangyang_Li4)
 - OR-Toolformer: Modeling and Solving Operations Research Problems with Tool Augmented Large Language Models
     > Jianzhang Zhang, Jialong Zhou, Chuang Liu
     > [arXiv link](https://arxiv.org/abs/2510.01253)
 
 ## RL
-- SIRL
-    > NIPS2025 Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling, Openreview [link](https://openreview.net/forum?id=80L235oVBe).
+- Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling
+    > NIPS 2025, Openreview [link](https://openreview.net/forum?id=80L235oVBe). NISP [link](https://neurips.cc/virtual/2025/loc/san-diego/poster/119660).
     > [Yitian Chen](https://openreview.net/profile?id=~Yitian_Chen3), [Jingfan Xia](https://openreview.net/profile?id=~Jingfan_Xia1), [Siyu Shao](https://openreview.net/profile?id=~Siyu_Shao1), [Dongdong Ge](https://openreview.net/profile?id=~Dongdong_Ge2), [Yinyu Ye](https://openreview.net/profile?id=~Yinyu_Ye1)
 - OR-R1
     > AAAI2026 OR-R1: Automating Modeling and Solving of Operations Research Optimization Problem via Test-Time Reinforcement Learning. [ZhenTan](https://openreview.net/profile?id=~Zhen_Tan2), [Jiheng Zhang](https://openreview.net/profile?id=~Jiheng_Zhang1), [Tianlong Chen](https://openreview.net/profile?id=~Tianlong_Chen1). arXiv [link](https://arxiv.org/abs/2511.09092), Github [link](https://github.com/SCUTE-ZZ/OR-R1)
@@ -107,7 +111,9 @@ Repository on the application of artificial intelligence technology in the field
 
 ## Datasets
 - OptMATH-Train
-    > ICML2025. OptMATH: A Scalable Bidirectional Data Synthesis Framework for Optimization Modeling. icml [link](https://icml.cc/virtual/2025/poster/46227). openreview [link](https://openreview.net/forum?id=9P5e6iE4WK). [Hongliang Lu](https://openreview.net/profile?id=~Hongliang_Lu3), [Zhonglin Xie](https://openreview.net/profile?id=~Zhonglin_Xie1), [Yaoyu Wu](https://openreview.net/profile?id=~Yaoyu_Wu1), [Can Ren](https://openreview.net/profile?id=~Can_Ren1), [Yuxuan Chen](https://openreview.net/profile?id=~Yuxuan_Chen22), [Zaiwen Wen](https://openreview.net/profile?id=~Zaiwen_Wen1)
+    > ICML2025. OptMATH: A Scalable Bidirectional Data Synthesis Framework for Optimization Modeling.
+    > icml [link](https://icml.cc/virtual/2025/poster/46227). openreview [link](https://openreview.net/forum?id=9P5e6iE4WK). [arXiv link](https://arxiv.org/abs/2502.11102), [Huggingface link](https://huggingface.co/datasets/Aurora-Gem/OptMATH-Train).
+    > PKU. [Hongliang Lu](https://openreview.net/profile?id=~Hongliang_Lu3), [Zhonglin Xie](https://openreview.net/profile?id=~Zhonglin_Xie1), [Yaoyu Wu](https://openreview.net/profile?id=~Yaoyu_Wu1), [Can Ren](https://openreview.net/profile?id=~Can_Ren1), [Yuxuan Chen](https://openreview.net/profile?id=~Yuxuan_Chen22), **[Zaiwen Wen](https://openreview.net/profile?id=~Zaiwen_Wen1)**
 - ReSocratic
     > ICLR 2025 OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling, openreview [link](https://openreview.net/forum?id=fsDZwS49uY), Github: [link1](https://github.com/yangzhch6/ReSocratic), Github [link2](https://github.com/HoshinoAkua/OptiBench), [Zhicheng Yang](https://openreview.net/profile?id=~Zhicheng_Yang4), [Yiwei Wang](https://openreview.net/profile?id=~Yiwei_Wang2), [Yinya Huang](https://openreview.net/profile?id=~Yinya_Huang1), [Zhijiang Guo](https://openreview.net/profile?id=~Zhijiang_Guo2), [Wei Shi](https://openreview.net/profile?id=~Wei_Shi15), [Xiongwei Han](https://openreview.net/profile?id=~Xiongwei_Han1), [Liang Feng](https://openreview.net/profile?id=~Liang_Feng3), [Linqi Song](https://openreview.net/profile?id=~Linqi_Song1), [Xiaodan Liang](https://openreview.net/profile?id=~Xiaodan_Liang2), [Jing Tang](https://openreview.net/profile?id=~Jing_Tang5).
 - Large-Scale-OR (LEAN-LLM-OPT)
@@ -143,6 +149,9 @@ Repository on the application of artificial intelligence technology in the field
     > [openreview link](https://openreview.net/forum?id=Becrgm5xAq)
     > [Federico Berto](https://openreview.net/profile?id=~Federico_Berto1), [Chuanbo Hua](https://openreview.net/profile?id=~Chuanbo_Hua1), [Junyoung Park](https://openreview.net/profile?id=~Junyoung_Park1), [Laurin Luttmann](https://openreview.net/profile?id=~Laurin_Luttmann1), **[Yining Ma](https://openreview.net/profile?id=~Yining_Ma1)**, [Fanchen Bu](https://openreview.net/profile?id=~Fanchen_Bu1), [Jiarui Wang](https://openreview.net/profile?id=~Jiarui_Wang3), **[Haoran Ye](https://openreview.net/profile?id=~Haoran_Ye1)**, [Minsu Kim](https://openreview.net/profile?id=~Minsu_Kim2), [Sanghyeok Choi](https://openreview.net/profile?id=~Sanghyeok_Choi1), [Nayeli Gast Zepeda](https://openreview.net/profile?id=~Nayeli_Gast_Zepeda1), [André Hottung](https://openreview.net/profile?id=~Andr%C3%A9_Hottung1), [Jianan Zhou](https://openreview.net/profile?id=~Jianan_Zhou1), **[Jieyi Bi](https://openreview.net/profile?id=~Jieyi_Bi1)**, [Yu Hu](https://openreview.net/profile?id=~Yu_Hu11), **[Fei Liu](https://openreview.net/profile?id=~Fei_Liu14)**, [Hyeonah Kim](https://openreview.net/profile?id=~Hyeonah_Kim1), [Jiwoo Son](https://openreview.net/profile?id=~Jiwoo_Son2), [Haeyeon Kim](https://openreview.net/profile?id=~Haeyeon_Kim1), [Davide Angioni](https://openreview.net/profile?id=~Davide_Angioni1), [et al. (13 additional authors not shown)](https://openreview.net/forum?id=Becrgm5xAq#)
 
+## Verification
+- An Agent-based Framework for the Automatic Validation of Mathematical Optimization Models. [arXiv link](https://arxiv.org/abs/2511.16383)
+
 ## Theoretical Work
 - Coherent Local Explanations for Mathematical Optimization
     > ICLR 2026 Reject
@@ -157,8 +166,8 @@ Repository on the application of artificial intelligence technology in the field
     > ICLR 2026 Reject, [openreview link](https://openreview.net/forum?id=KSfLDk3jxI)
 
 ## DeepLearning for Optimization
-- BPP-Search
-    > ACL2025 [BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical Modeling Problem Solving]()
+- BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical Modeling Problem Solving
+    > ACL 2025 [link](https://aclanthology.org/2025.acl-long.40/)
     > Teng Wang, Wing Yin Yu, Zhenqi He, Zehua Liu, HaileiGong HaileiGong, Han Wu, Xiongwei Han, Wei Shi, Ruifeng She, Fangzhou Zhu, and Tao Zhong.
 - Towards Imitation Learning to Branch for MIP: A Hybrid Reinforcement Learning based Sample Augmentation Approach. openreview [link](https://openreview.net/forum?id=NdcQQ82mfy). [Changwen Zhang](https://openreview.net/profile?id=~Changwen_Zhang1), [Wenli Ouyang](https://openreview.net/profile?id=~Wenli_Ouyang1), [Hao Yuan](https://openreview.net/profile?id=~Hao_Yuan5), [Liming Gong](https://openreview.net/profile?id=~Liming_Gong1), [Yong Sun](https://openreview.net/profile?id=~Yong_Sun1), [Ziao Guo](https://openreview.net/profile?id=~Ziao_Guo1), [Zhichen Dong](https://openreview.net/profile?id=~Zhichen_Dong1), [Junchi Yan](https://openreview.net/profile?id=~Junchi_Yan2)
 - ACL2019. Modeling Intra-Relation in Math Word Problems with Different Functional Multi-Head Attentions. Jierui Li, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai, [Dongxiang Zhang](https://openreview.net/profile?id=~Dongxiang_Zhang2)
@@ -234,16 +243,16 @@ Repository on the application of artificial intelligence technology in the field
     > [openreview link](https://openreview.net/forum?id=ueeqGvQozB)
     > [Huigen Ye](https://openreview.net/profile?id=~Huigen_Ye1), [Yaoyang Cheng](https://openreview.net/profile?id=~Yaoyang_Cheng1), [Hua Xu](https://openreview.net/profile?id=~Hua_Xu1), [Zhiguang Cao](https://openreview.net/profile?id=~Zhiguang_Cao1), [Hanzhang Qin](https://openreview.net/profile?id=~Hanzhang_Qin1)
 - Learning Node Selection via Tripartite Graph Representation in Mixed Integer Linear Programming
-    > [Sijia Zhang](https://openreview.net/profile?id=~Sijia_Zhang2), [Fei Shang](https://openreview.net/profile?id=~Fei_Shang2), [Feng Wu](https://openreview.net/profile?id=~Feng_Wu3), [Shaoang Li](https://openreview.net/profile?id=~Shaoang_Li1), [Xiangyang Li](https://openreview.net/profile?id=~Xiangyang_Li4),
+    > [Sijia Zhang](https://openreview.net/profile?id=~Sijia_Zhang2), [Fei Shang](https://openreview.net/profile?id=~Fei_Shang2), **[Feng Wu](https://openreview.net/profile?id=~Feng_Wu3)**, [Shaoang Li](https://openreview.net/profile?id=~Shaoang_Li1), [Xiangyang Li](https://openreview.net/profile?id=~Xiangyang_Li4),
 - MILP-StuDio: MILP Instance Generation via Block Structure Decomposition.
     > [openreview link](https://openreview.net/forum?id=W433RI0VU4)
-    > USTC. [Haoyang Liu](https://openreview.net/profile?id=~Haoyang_Liu2), **[Jie Wang](https://openreview.net/profile?id=~Jie_Wang1)**, [Wanbo Zhang](https://openreview.net/profile?id=~Wanbo_Zhang1), [Zijie Geng](https://openreview.net/profile?id=~Zijie_Geng1), **[Yufei Kuang](https://openreview.net/profile?id=~Yufei_Kuang1)**, [Xijun Li](https://openreview.net/profile?id=~Xijun_Li1), [Bin Li](https://openreview.net/profile?id=~Bin_Li8), [Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang2), [Feng Wu](https://openreview.net/profile?id=~Feng_Wu1),
+    > USTC. [Haoyang Liu](https://openreview.net/profile?id=~Haoyang_Liu2), **[Jie Wang](https://openreview.net/profile?id=~Jie_Wang1)**, [Wanbo Zhang](https://openreview.net/profile?id=~Wanbo_Zhang1), [Zijie Geng](https://openreview.net/profile?id=~Zijie_Geng1), **[Yufei Kuang](https://openreview.net/profile?id=~Yufei_Kuang1)**, [Xijun Li](https://openreview.net/profile?id=~Xijun_Li1), [Bin Li](https://openreview.net/profile?id=~Bin_Li8), [Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang2), **[Feng Wu](https://openreview.net/profile?id=~Feng_Wu1)**,
 
 
 
 ## LLMs CO Application
 - HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking
-    > [Runquan Gui](https://openreview.net/profile?id=~Runquan_Gui1), [Zhihai Wang](https://openreview.net/profile?id=~Zhihai_Wang1), [Jie Wang](https://openreview.net/profile?id=~Jie_Wang1), [Chi Ma](https://openreview.net/profile?id=~Chi_Ma2), [Huiling Zhen](https://openreview.net/profile?id=~Huiling_Zhen1), [Mingxuan Yuan](https://openreview.net/profile?id=~Mingxuan_Yuan1), [Jianye HAO](https://openreview.net/profile?id=~Jianye_HAO1), [Defu Lian](https://openreview.net/profile?id=~Defu_Lian1), [Enhong Chen](https://openreview.net/profile?id=~Enhong_Chen1), [Feng Wu](https://openreview.net/profile?id=~Feng_Wu3)
+    > [Runquan Gui](https://openreview.net/profile?id=~Runquan_Gui1), [Zhihai Wang](https://openreview.net/profile?id=~Zhihai_Wang1), **[Jie Wang](https://openreview.net/profile?id=~Jie_Wang1)**, [Chi Ma](https://openreview.net/profile?id=~Chi_Ma2), [Huiling Zhen](https://openreview.net/profile?id=~Huiling_Zhen1), [Mingxuan Yuan](https://openreview.net/profile?id=~Mingxuan_Yuan1), [Jianye HAO](https://openreview.net/profile?id=~Jianye_HAO1), [Defu Lian](https://openreview.net/profile?id=~Defu_Lian1), [Enhong Chen](https://openreview.net/profile?id=~Enhong_Chen1), [Feng Wu](https://openreview.net/profile?id=~Feng_Wu3)
 
 ## Math Modeling
 - MM-Agent
