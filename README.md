@@ -54,7 +54,22 @@ Repository on the application of artificial intelligence technology in the field
 - EOR, ICLR2025, Decision Information Meets Large Language Models: The Future of Explainable Operations Research
     > ICLR2025 [openreview link](https://openreview.net/forum?id=W2dR6rypBQ)
     > [Yansen Zhang](https://openreview.net/profile?id=~Yansen_Zhang1), [Qingcan Kang](https://openreview.net/profile?id=~Qingcan_Kang1), [Wing Yin YU](https://openreview.net/profile?id=~Wing_Yin_YU1), [HaileiGong](https://openreview.net/profile?id=~HaileiGong1), [Xiaojin Fu](https://openreview.net/profile?id=~Xiaojin_Fu1), **[Xiongwei Han](https://openreview.net/profile?id=~Xiongwei_Han1)**, [Tao Zhong](https://openreview.net/profile?id=~Tao_Zhong2), [Chen Ma](https://openreview.net/profile?id=~Chen_Ma3),
-
+- OptiRepair: Closed-Loop Diagnosis and Repair of Supply Chain Optimization Models with LLM Agents
+    > [arXiv link](https://arxiv.org/abs/2602.19439) 
+    > Authors: Ruicheng Ao, David Simchi-Levi, Xinshang Wang
+    > Date: 2602.19439
+- ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization
+    > [arXiv link](https://arxiv.org/abs/2602.15983) 
+    > Authors: Junbo Jacob Lian, Yujun Sun, Huiling Chen, Chaoyu Zhang, Chung-Piaw Teo
+    > Date: 2602.15983
+- NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents
+    > [arXiv link](https://arxiv.org/abs/2601.21372)
+    > Authors: Yang Song, Anoushka Vyas, Zirui Wei, Sina Khoshfetrat Pakazad, Henrik Ohlsson, Graham Neubig
+    > Date: 2601.21372
+- EvoOpt-LLM: Evolving industrial optimization models with large language models
+    > [arXiv link](https://arxiv.org/abs/2602.01082)
+    > Authors: Yiliu He, Tianle Li, Binghao Ji, Zhiyuan Liu, Di Huang
+    > Date: 2602.01082
 ## SFT
 - CAFA: Coding as Auto-Formulation Can Boost Large Language Models in Solving Linear Programming Problem
     > NIPS 2023. openreview [link](https://openreview.net/forum?id=xC2xtBLmri)
@@ -94,7 +109,10 @@ Repository on the application of artificial intelligence technology in the field
 - OR-Toolformer: Modeling and Solving Operations Research Problems with Tool Augmented Large Language Models
     > Jianzhang Zhang, Jialong Zhou, Chuang Liu
     > [arXiv link](https://arxiv.org/abs/2510.01253)
-
+- Automated Optimization Modeling via a Localizable Error-Driven Perspective
+    > [arXiv link](https://arxiv.org/abs/2602.11164)
+    > Authors: Weiting Liu, Han Wu, Yufei Kuang, Xiongwei Han, Tao Zhong, Jianfeng Feng, Wenlian Lu
+    > Date: 2602.11164
 ## RL
 - Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling
     > NIPS 2025, Openreview [link](https://openreview.net/forum?id=80L235oVBe). NISP [link](https://neurips.cc/virtual/2025/loc/san-diego/poster/119660).
@@ -102,6 +120,16 @@ Repository on the application of artificial intelligence technology in the field
 - OR-R1
     > AAAI2026 OR-R1: Automating Modeling and Solving of Operations Research Optimization Problem via Test-Time Reinforcement Learning. [ZhenTan](https://openreview.net/profile?id=~Zhen_Tan2), [Jiheng Zhang](https://openreview.net/profile?id=~Jiheng_Zhang1), [Tianlong Chen](https://openreview.net/profile?id=~Tianlong_Chen1). arXiv [link](https://arxiv.org/abs/2511.09092), Github [link](https://github.com/SCUTE-ZZ/OR-R1)
 - MiniOPT
+
+## LLMs for Optimization in a specific domain
+-  Beyond Pass-by-Pass Optimization: Intent-Driven IR Optimization with Large Language Models
+    > Authors: Lei Qiu, Zi Yang, Fang Lyu, Ming Zhong, Huimin Cui, Xiaobing Feng
+    > [arXiv link](https://arxiv.org/abs/2602.18511)
+    > Date: 2602.18511
+- ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling
+    > Authors: Chao Shen, Zihan Guo, Xu Wan, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun
+    > [arxiv link](https://arxiv.org/abs/2602.03070)
+    > Date: 2602.03070
 
 ## RAG
 - AlphaOPT
@@ -123,13 +151,22 @@ Repository on the application of artificial intelligence technology in the field
 
 
 ### Benchmarks
-- NL4OPT
+- NL4OPT Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions
+    > NIPS 2022,pmlr-v220-ramamonjison23a
+- ICML 2024 Challenges on Automated Math Reasoning - Track 3: Automated Optimization Problem-Solving with Code
+    > https://www.codabench.org/competitions/2438
 - Mamo
     > Mamo: a Mathematical Modeling Benchmark with Solvers. [arxiv link](https://arxiv.org/abs/2405.13144v1)
     > Github: [link](https://github.com/FreedomIntelligence/Mamo). [Huggingface link](https://huggingface.co/papers/2405.13144)
 - ComplexOR (CoE)
+    > pmlr-v235-ahmaditeshnizi24a 
 - NLP4LP (OptiMUS)
 - OptMATH-Bench
+- NIPLIB-NL
+    > Constructing Industrial-Scale Optimization Modeling Benchmark
+    > Authors list: Zhong Li, Hongliang Lu, Tao Wei, Wenyu Liu, Yuxuan Chen, Yuan Lan, Fan Zhang, Zaiwen Wen
+    > arXiv [link](https://arxiv.org/abs/2602.10450)
+
 - IndustryOR (ORLM)
 - ICML.C
 - OptiBench
@@ -176,7 +213,7 @@ Repository on the application of artificial intelligence technology in the field
 
 
 
-## LLMs for Heuristics
+## LLMs based Evolution / Heuristics
 - AlphaEvolve
 
 - Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model
@@ -187,20 +224,28 @@ Repository on the application of artificial intelligence technology in the field
 - ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution
     > [arXiv link](https://arxiv.org/abs/2402.01145), [ACM Page](https://dl.acm.org/doi/10.5555/3737916.3739297), [NIPS Page](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4ced59d480e07d290b6f29fc8798f195-Abstract-Conference.html), [Github link](https://github.com/ai4co/reevo)
     > Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song
-    > [Haoran Ye](https://openreview.net/profile?id=~Haoran_Ye1), [Jiarui Wang](), [Zhiguang Cao](https://openreview.net/profile?id=~Zhiguang_Cao1), [Guojie Song](https://openreview.net/profile?id=~Guojie_Song1)
+    > **[Haoran Ye](https://openreview.net/profile?id=~Haoran_Ye1)**, [Jiarui Wang](), **[Zhiguang Cao](https://openreview.net/profile?id=~Zhiguang_Cao1)**, **[Guojie Song](https://openreview.net/profile?id=~Guojie_Song1)**
     >
 - FM-Agent
     > Github: [link](https://github.com/baidubce/FM-Agent)
 
-- ARS Automatic Routing Solver with Large Language Models
-    > Kai Li, Fei Liu, Zhenkun Wang, Xialiang Tong, Xiongwei Han, Mingxuan Yuan, Qingfu Zhang
-    > [openreview link](https://openreview.net/forum?id=Tw1kyA5akb)
-    > [Github link](https://github.com/Ahalikai/ARS-Routbench/blob/main/README.md)
 - LLM4Solver: Large Language Model for Efficient Algorithm Design of Combinatorial Optimization Solver.
     > [openreview linl](https://openreview.net/forum?id=XTxdDEFR6D)
     > [Yuyan Zhou](https://openreview.net/profile?id=~Yuyan_Zhou1), [Jie Wang](https://openreview.net/profile?id=~Jie_Wang1), [Yufei Kuang](https://openreview.net/profile?id=~Yufei_Kuang1), [Xijun Li](https://openreview.net/profile?id=~Xijun_Li1), [Weilin Luo](https://openreview.net/profile?id=~Weilin_Luo2), [Jianye HAO](https://openreview.net/profile?id=~Jianye_HAO1), [Feng Wu](https://openreview.net/profile?id=~Feng_Wu1),
 - Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models. [ACM KDD link](https://dl.acm.org/doi/10.1145/3711896.3736923). Xuan Wu, Di Wang, Chunguo Wu, Lijie Wen, Chunyan Miao, Yubin Xiao, You Zhou.
 
+- Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization
+    > [arXiv link](https://arxiv.org/abs/2601.17899) 
+    > Authors: Junhao Qiu, Xin Chen, Liang Ge, Liyong Lin, Zhichao Lu, Qingfu Zhang
+    > Date: 2601.17899
+- MadEvolve: Evolutionary Optimization of Cosmological Algorithms with Large Language Models
+    > Authors: Tianyi Li, Shihui Zang, Moritz Münchmeyer
+    > [arXiv link](https://arxiv.org/abs/2602.15951) 
+    > Date: 2602.15951
+- Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree
+    > Authors: Leyi Zhao, Weijie Huang, Yitong Guo, Jiang Bian, Chenghong Wang, Xuhong Zhang
+    > [arXiv link](https://arxiv.org/abs/2601.14523) 
+    > Date: 2601.14523
 ## modeling language
 - OR-Tools
     > Document [link](https://developers.google.cn/optimization/introduction?hl=zh-cn). Github [link](https://github.com/google/or-tools).
@@ -214,6 +259,8 @@ Repository on the application of artificial intelligence technology in the field
 - PYSCIOPT
 - MindOPT
     > [alibabacloud link](https://opt.alibabacloud.com/portal)
+- Mosek
+- Zinc
 
 ## solvers
 - glpk
@@ -225,25 +272,38 @@ Repository on the application of artificial intelligence technology in the field
 
 
 ## LLMs for MILP Generation, Process, and Solving
+
+- ARS Automatic Routing Solver with Large Language Models
+    > Kai Li, Fei Liu, Zhenkun Wang, Xialiang Tong, Xiongwei Han, Mingxuan Yuan, Qingfu Zhang
+    > [openreview link](https://openreview.net/forum?id=Tw1kyA5akb)
+    > [Github link](https://github.com/Ahalikai/ARS-Routbench/blob/main/README.md)
+
 - Light-MILPopt: Solving Large-scale Mixed Integer Linear Programs with Lightweight Optimizer and Small-scale Training Dataset. [Huigen Ye](https://openreview.net/profile?id=~Huigen_Ye1), Hua Xu, Hongyan Wang. openreview [link](https://openreview.net/forum?id=2oWRumm67L)
 - Towards Foundation Models for Mixed Integer Linear Programming
     > ICLR 2025 Accept [openreview link](https://openreview.net/group?id=ICLR.cc/2026/Conference#tab-reject)
-    > [Sirui Li](https://openreview.net/profile?id=~Sirui_Li1), [Janardhan Kulkarni](https://openreview.net/profile?id=~Janardhan_Kulkarni2), [Ishai Menache](https://openreview.net/profile?id=~Ishai_Menache1), [Cathy Wu](https://openreview.net/profile?id=~Cathy_Wu1), [Beibin Li](https://openreview.net/profile?id=~Beibin_Li1), openreview [link]
+    > [Sirui Li](https://openreview.net/profile?id=~Sirui_Li1), [Janardhan Kulkarni](https://openreview.net/profile?id=~Janardhan_Kulkarni2), [Ishai Menache](https://openreview.net/profile?id=~Ishai_Menache1), [Cathy Wu](https://openreview.net/profile?id=~Cathy_Wu1), [Beibin Li 李辈滨](https://openreview.net/profile?id=~Beibin_Li1), openreview [link]
+
 - [Code Retrieval for MILP Instance Generation](https://arxiv.org/abs/2505.11526)
+
 - Targeted MILP Instance Generation via Formulation Code Retrieval
     > ICLR 2026 Reject [openreview link](https://openreview.net/forum?id=09FE8nv4sV)
+
 - Code Retrieval for MILP Instance Generation
     > [arXiv link](https://arxiv.org/abs/2505.11526)
     > Tianxing Yang, Huigen Ye, Hua Xu
+
 - ACM-MILP
     > ACM-MILP: adaptive constraint modification via grouping and selection for hardness-preserving MILP instance generation
     > [ACM page link](https://dl.acm.org/doi/10.5555/3692070.3692740), [Github link](https://github.com/Thinklab-SJTU/ACM-MILP), [zhihu blog page](https://zhuanlan.zhihu.com/p/12909271401)
     > Ziao Guo, Yang Li, Chang Liu, Wenli Ouyang, Junchi Yan
+
 - ML4MILP: A Benchmark Dataset for Machine Learning-based Mixed-Integer Linear Programming
     > [openreview link](https://openreview.net/forum?id=ueeqGvQozB)
     > [Huigen Ye](https://openreview.net/profile?id=~Huigen_Ye1), [Yaoyang Cheng](https://openreview.net/profile?id=~Yaoyang_Cheng1), [Hua Xu](https://openreview.net/profile?id=~Hua_Xu1), [Zhiguang Cao](https://openreview.net/profile?id=~Zhiguang_Cao1), [Hanzhang Qin](https://openreview.net/profile?id=~Hanzhang_Qin1)
+
 - Learning Node Selection via Tripartite Graph Representation in Mixed Integer Linear Programming
     > [Sijia Zhang](https://openreview.net/profile?id=~Sijia_Zhang2), [Fei Shang](https://openreview.net/profile?id=~Fei_Shang2), **[Feng Wu](https://openreview.net/profile?id=~Feng_Wu3)**, [Shaoang Li](https://openreview.net/profile?id=~Shaoang_Li1), [Xiangyang Li](https://openreview.net/profile?id=~Xiangyang_Li4),
+    
 - MILP-StuDio: MILP Instance Generation via Block Structure Decomposition.
     > [openreview link](https://openreview.net/forum?id=W433RI0VU4)
     > USTC. [Haoyang Liu](https://openreview.net/profile?id=~Haoyang_Liu2), **[Jie Wang](https://openreview.net/profile?id=~Jie_Wang1)**, [Wanbo Zhang](https://openreview.net/profile?id=~Wanbo_Zhang1), [Zijie Geng](https://openreview.net/profile?id=~Zijie_Geng1), **[Yufei Kuang](https://openreview.net/profile?id=~Yufei_Kuang1)**, [Xijun Li](https://openreview.net/profile?id=~Xijun_Li1), [Bin Li](https://openreview.net/profile?id=~Bin_Li8), [Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang2), **[Feng Wu](https://openreview.net/profile?id=~Feng_Wu1)**,
@@ -272,7 +332,7 @@ How to apply optimization model to enhance the LLMs?
 
 
 # Neural CO
-- Rethinking Neural Multi-Objective Combinatorial Optimization via Neat Weight Embedding. Jinbiao Chen, [Zhiguang Cao](https://openreview.net/profile?id=~Zhiguang_Cao1), Jiahai Wang, Yaoxin Wu, [Hanzhang Qin](https://openreview.net/profile?id=~Hanzhang_Qin1), Zizhen Zhang, [Yue-Jiao Gong](https://openreview.net/profile?id=~Yue-Jiao_Gong1). openreview [link](https://openreview.net/forum?id=GM7cmQfk2F)
+- Rethinking Neural Multi-Objective Combinatorial Optimization via Neat Weight Embedding. Jinbiao Chen, [Zhiguang Cao](https://openreview.net/profile?id=~Zhiguang_Cao1), Jiahai Wang, Yaoxin Wu, [Hanzhang Qin 覃含章](https://openreview.net/profile?id=~Hanzhang_Qin1), Zizhen Zhang, [Yue-Jiao Gong 龚月姣](https://openreview.net/profile?id=~Yue-Jiao_Gong1). openreview [link](https://openreview.net/forum?id=GM7cmQfk2F)
 
 - Rethinking Neural Multi-Objective Combinatorial Optimization via Neat Weight Embedding
     > [openreview link](https://openreview.net/forum?id=GM7cmQfk2F)
@@ -288,6 +348,8 @@ How to apply optimization model to enhance the LLMs?
 
 # Some LLMs for Math
 - The Lessons of Developing Process Reward Models in Mathematical Reasoning. [arxiv link](https://arxiv.org/abs/2501.07301)
+
+
 
 Extract Script for openreview page
 ```javascript
