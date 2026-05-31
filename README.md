@@ -10,8 +10,6 @@ Repository on the application of artificial intelligence technology in the field
     > [IJCAI2025 Page](https://www.ijcai.org/proceedings/2025/1192), [ACM Page](https://dl.acm.org/doi/10.24963/ijcai.2025/1192), [Github Link](https://github.com/LLM4OR/LLM4OR), [arXiv link](https://arxiv.org/abs/2508.10047).
     > Ziyang Xiao, Jingrong Xie, Lilin Xu, Shisi Guan, Jingyan Zhu, Xiongwei Han, Xiaojin Fu, WingYin Yu, Han Wu, Wei Shi, Qingcan Kang, Jiahui Duan, Tao Zhong, Mingxuan Yuan, Jia Zeng, Yuan Wang, Gang Chen, Dongxiang Zhang
 - Large Language Models in Operations Research: Methods, Applications, and Challenges
-    > 
-- 
 
 ## Multi-Agent
 - CoE
@@ -370,7 +368,6 @@ Focusing on AI for Research / AI for Science
 How to apply optimization model to enhance the LLMs?
 
 [It's Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](https://arxiv.org/abs/2407.00487)
-
 
 # Neural CO
 - Rethinking Neural Multi-Objective Combinatorial Optimization via Neat Weight Embedding. Jinbiao Chen, [Zhiguang Cao](https://openreview.net/profile?id=~Zhiguang_Cao1), Jiahai Wang, Yaoxin Wu, [Hanzhang Qin 覃含章](https://openreview.net/profile?id=~Hanzhang_Qin1), Zizhen Zhang, [Yue-Jiao Gong 龚月姣](https://openreview.net/profile?id=~Yue-Jiao_Gong1). openreview [link](https://openreview.net/forum?id=GM7cmQfk2F)
