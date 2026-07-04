@@ -9,9 +9,88 @@ Repository on the application of artificial intelligence technology in the field
 - 2025.08 A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions
     > [IJCAI2025 Page](https://www.ijcai.org/proceedings/2025/1192), [ACM Page](https://dl.acm.org/doi/10.24963/ijcai.2025/1192), [Github Link](https://github.com/LLM4OR/LLM4OR), [arXiv link](https://arxiv.org/abs/2508.10047).
     > Ziyang Xiao, Jingrong Xie, Lilin Xu, Shisi Guan, Jingyan Zhu, Xiongwei Han, Xiaojin Fu, WingYin Yu, Han Wu, Wei Shi, Qingcan Kang, Jiahui Duan, Tao Zhong, Mingxuan Yuan, Jia Zeng, Yuan Wang, Gang Chen, Dongxiang Zhang
+
 - Large Language Models in Operations Research: Methods, Applications, and Challenges
 
-## Multi-Agent
+- 2026.05 Large Language Models for Operations Research: A Comprehensive Survey
+    > Xianchao Xiu, Jianhao Li, Jun Fan, Wanquan Liu
+    > [arXiv link](https://arxiv.org/abs/2605.20849)
+
+
+### Benchmarks
+
+- 2026.05 OR-Space: A Full-Lifecycle Workspace Benchmark for Industrial Optimization Agents
+    > Chenyu Zhou, Xinyun Lu, Jiangyue Zhao, Jianghao Lin, Dongdong Ge, Yinyu Ye
+    > [arXiv link](https://arxiv.org/abs/2605.28158v1)
+
+- 2026.01 OPT-Engine: Benchmarking the Limits of LLMs in Optimization Modeling via Complexity Scaling
+    > Yitian Chen, Cheng Cheng, Yinan Sun, Zi Ling, Dongdong Ge
+    > [arXiv link](https://arxiv.org/abs/2601.19924)
+
+- 2026.04 OptiVerse: A Comprehensive Benchmark towards Optimization Problem Solving
+    > ACL Findings, [arxiv 2604.21510v1](https://arxiv.org/abs/2604.21510v1), [Github Waichenbxx/OptiVerse](https://github.com/Waichenbxx/OptiVerse), [Huggingface Waicheng/OptiVerse](https://huggingface.co/datasets/Waicheng/OptiVerse)
+    > Authors: Xinyu Zhang, Boxuan Zhang, Yuchen Wan, Lingling Zhang, YiXing Yao, Bifan Wei, Yaqiang Wu, Jun Liu
+    > However, existing benchmarks focus narrowly on Mathematical Programming and Combinatorial Optimization, hindering comprehensive evaluation. To address this, we introduce **OptiVerse, a comprehensive benchmark of 1,000 curated problems spanning neglected domains, including Stochastic Optimization, Dynamic Optimization, Game Optimization, and Optimal Control**, across three difficulty levels: Easy, Medium, and Hard.
+
+- 2026.02 NIPLIB-NL
+    > Constructing Industrial-Scale Optimization Modeling Benchmark
+    > Authors list: Zhong Li, Hongliang Lu, Tao Wei, Wenyu Liu, Yuxuan Chen, Yuan Lan, Fan Zhang, Zaiwen Wen
+    > arXiv [link](https://arxiv.org/abs/2602.10450)
+
+- 2025.10 IndusCP (ConstraintLLM)
+    > ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming, [EMNLP ACL Page](https://aclanthology.org/2025.emnlp-main.809/), [arXiv link](https://arxiv.org/abs/2510.05774). [Github page](https://github.com/william4s/ConstraintLLM). Weichun Shi, [Minghao Liu](https://openreview.net/profile?id=~Minghao_Liu1), Wanting Zhang, Langchen Shi, Fuqi Jia, [Feifei Ma](https://openreview.net/profile?id=~Feifei_Ma1), [Jian Zhang](https://openreview.net/profile?id=~Jian_Zhang27). 
+- 2025.10 Bench4Opt
+    > from (ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling)
+    > [arXiv link](https://arxiv.org/abs/2510.27610), [Huggingface link](https://huggingface.co/papers/2510.27610)
+    > CUHK, Zhuohan Wang, Ziwei Zhu, Ziniu Li, Congliang Chen, Yizhou Han, Yufeng Lin, Zhihang Lin, Angyang Gu, Xinglin Hu, Ruoyu Sun, [Tian Ding](https://openreview.net/profile?id=~Tian_Ding1)
+
+- 2025.08 LogiOR
+    > Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning. [arXiv page](https://arxiv.org/abs/2508.14410). [Huggingface page](https://huggingface.co/datasets/LabMem012/LogiOR).
+    > [Beinuo Yang](https://openreview.net/profile?id=~Beinuo_Yang1) and [Qishen Zhou](https://openreview.net/profile?id=~Qishen_Zhou2) and [Junyi Li](https://openreview.net/profile?id=~Junyi_Li15) and Chenxing Su and [Simon Hu](https://openreview.net/profile?id=~Simon_Hu1).
+- 2025.07 OptMATH-Bench
+- 2025.06 DCP-Bench-Open: Evaluating LLMs for Constraint Modelling of Discrete Combinatorial Problems
+    > ECAI 2025, CP-Bench
+    > https://arxiv.org/abs/2506.06052v3
+    > Authors: Kostis Michailidis, Dimos Tsouros, Tias Guns
+
+- 2025.04 OptiBench
+- 2024.07 ICML 2024 Challenges on Automated Math Reasoning - Track 3: Automated Optimization Problem-Solving with Code
+    > https://www.codabench.org/competitions/2438
+- 2024.07 NLP4LP (OptiMUS)
+- 2024.05 Mamo
+    > Mamo: a Mathematical Modeling Benchmark with Solvers. [arxiv link](https://arxiv.org/abs/2405.13144v1)
+    > Github: [link](https://github.com/FreedomIntelligence/Mamo). [Huggingface link](https://huggingface.co/papers/2405.13144)
+- 2024.05 ComplexOR (CoE)
+    > pmlr-v235-ahmaditeshnizi24a 
+- 2024.05 IndustryOR (ORLM)
+- 2022.11 NL4OPT Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions
+    > NIPS 2022,pmlr-v220-ramamonjison23a
+- ICML.C
+- CO-BENCH
+    > CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization.
+    > Weiwei Sun, Shengyu Feng, Shanda Li, Yiming Yang (CMU). 
+    > [Github page](https://github.com/sunnweiwei/CO-Bench), [Huggingface page](https://huggingface.co/datasets/CO-Bench/CO-Bench)
+- OptiBench: Benchmarking Large Language Models in Optimization Modeling with Equivalence-Detection Evaluation
+    > [openreview link](https://openreview.net/forum?id=KD9F5Ap878)
+    > [Zhuohan Wang](https://openreview.net/profile?id=~Zhuohan_Wang3), [Ziwei Zhu](https://openreview.net/profile?id=~Ziwei_Zhu2), [Yizhou Han](https://openreview.net/profile?id=~Yizhou_Han1), [Yufeng Lin](https://openreview.net/profile?id=~Yufeng_Lin1), [Zhihang Lin](https://openreview.net/profile?id=~Zhihang_Lin4), [Ruoyu Sun](https://openreview.net/profile?id=~Ruoyu_Sun1), [Tian Ding](https://openreview.net/profile?id=~Tian_Ding1)
+- RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark
+    > [openreview link](https://openreview.net/forum?id=Becrgm5xAq)
+    > [Federico Berto](https://openreview.net/profile?id=~Federico_Berto1), [Chuanbo Hua](https://openreview.net/profile?id=~Chuanbo_Hua1), [Junyoung Park](https://openreview.net/profile?id=~Junyoung_Park1), [Laurin Luttmann](https://openreview.net/profile?id=~Laurin_Luttmann1), **[Yining Ma](https://openreview.net/profile?id=~Yining_Ma1)**, [Fanchen Bu](https://openreview.net/profile?id=~Fanchen_Bu1), [Jiarui Wang](https://openreview.net/profile?id=~Jiarui_Wang3), **[Haoran Ye](https://openreview.net/profile?id=~Haoran_Ye1)**, [Minsu Kim](https://openreview.net/profile?id=~Minsu_Kim2), [Sanghyeok Choi](https://openreview.net/profile?id=~Sanghyeok_Choi1), [Nayeli Gast Zepeda](https://openreview.net/profile?id=~Nayeli_Gast_Zepeda1), [André Hottung](https://openreview.net/profile?id=~Andr%C3%A9_Hottung1), [Jianan Zhou](https://openreview.net/profile?id=~Jianan_Zhou1), **[Jieyi Bi](https://openreview.net/profile?id=~Jieyi_Bi1)**, [Yu Hu](https://openreview.net/profile?id=~Yu_Hu11), **[Fei Liu](https://openreview.net/profile?id=~Fei_Liu14)**, [Hyeonah Kim](https://openreview.net/profile?id=~Hyeonah_Kim1), [Jiwoo Son](https://openreview.net/profile?id=~Jiwoo_Son2), [Haeyeon Kim](https://openreview.net/profile?id=~Haeyeon_Kim1), [Davide Angioni](https://openreview.net/profile?id=~Davide_Angioni1), [et al. (13 additional authors not shown)](https://openreview.net/forum?id=Becrgm5xAq#)
+
+- ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?
+    > Jiajun Li, Mingshu Cai, Yixuan Li, Yu Ding, Ran Hou, Guanyu Nie, Xiongwei Han, Wanyuan Wang
+    > [arXiv link: https://arxiv.org/abs/2606.19787](https://arxiv.org/abs/2606.19787)
+
+- OR-Space: A Full-Lifecycle Workspace Benchmark for Industrial Optimization Agents
+    > Chenyu Zhou, Xinyun Lu, Jiangyue Zhao, Jianghao Lin, Dongdong Ge, Yinyu Ye
+    > [arXiv link: https://arxiv.org/abs/2605.28158v1](https://arxiv.org/abs/2605.28158v1)
+
+- OPT-Engine: Benchmarking the Limits of LLMs in Optimization Modeling via Complexity Scaling
+    > Yitian Chen, Cheng Cheng, Yinan Sun, Zi Ling, Dongdong Ge
+    > [arXiv link: https://www.arxiv.org/abs/2601.19924](https://www.arxiv.org/abs/2601.19924)
+
+
+## LLM Workflow
 - 2026.05 Strategy-Aware Optimization Modeling with Reasoning LLMs
     > https://arxiv.org/abs/2605.02545v1
     > Authors: Ruiqing Zhao, Fengzhi Li, Yuan Zuo, Rui Liu, Yansong Liu, Yunfei Ma, Fanyu Meng, Junlan Feng
@@ -103,6 +182,11 @@ Repository on the application of artificial intelligence technology in the field
 - CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling.
     > ICLR 2026 Reject
     > [openreview link](https://openreview.net/forum?id=DILQqCQIJ3)
+
+
+- COOPA: A Modular LLM Agent Architecture for Operations Research Problems
+    > [arXiv link](https://arxiv.org/html/2606.27611)
+
 ### Convert
 - 2026.01 NC2C: Automated Convexification of Generic Non-Convex Optimization Problems
   > https://arxiv.org/abs/2601.04789v1
@@ -113,6 +197,7 @@ Repository on the application of artificial intelligence technology in the field
     > ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming
     > [EMNLP ACL Page](https://aclanthology.org/2025.emnlp-main.809/), [arXiv link](https://arxiv.org/abs/2510.05774). [Github page](https://github.com/william4s/ConstraintLLM). 
     > Weichun Shi, [Minghao Liu](https://openreview.net/profile?id=~Minghao_Liu1), Wanting Zhang, Langchen Shi, Fuqi Jia, [Feifei Ma](https://openreview.net/profile?id=~Feifei_Ma1), [Jian Zhang](https://openreview.net/profile?id=~Jian_Zhang27). 
+
 - 2025.10 LinearizeLLM: An Agent-Based Framework for LLM-Driven Exact Linear Reformulation of Nonlinear Optimization Problems[](https://arxiv.org/abs/2510.15969), Paul-Niklas Ken Kandora, Simon Caspar Zeller, Aaron Jeremias Elsing, Elena Kuss, Steffen Rebennack. Germany.
 
 ## SFT
@@ -130,8 +215,10 @@ Repository on the application of artificial intelligence technology in the field
     > Jianzhang Zhang, Jialong Zhou, Chuang Liu
     > [arXiv link](https://arxiv.org/abs/2510.01253)
 - 2025.09 StepORLM: A Self-Evolving Framework With Generative Process Supervision For Operations Research Language Models
+    > Chenyu Zhou, Tianyi Xu, Jianghao Lin, and Dongdong Ge. 2026. StepORLM: A self-evolving framework with generative process supervision for operations research language models. In The Fourteenth International Conference on Learning Representations.
     > ICLR2026 [arXiv link](https://arxiv.org/abs/2509.22558), [openreview link](https://openreview.net/forum?id=ZrgxU8WMmG), [anonymous repository link](https://anonymous.4open.science/r/StepORLM-BEA9/README.md).
     > Authors: [Chenyu Zhou](https://dblp.org/search/pid/api?q=author:Chenyu_Zhou:), [Tianyi Xu](https://dblp.org/search/pid/api?q=author:Tianyi_Xu:), [Jianghao Lin](https://openreview.net/profile?id=~Jianghao_Lin1), [Dongdong Ge](https://dblp.org/search/pid/api?q=author:Dongdong_Ge)
+
 - 2025.08 PaMOP
     > IJCAI2025 Guiding Large Language Models in Modeling Optimization Problems via Question Partitioning. [ACL link](https://dl.acm.org/doi/10.24963/ijcai.2025/296), [ijcai pdf link](https://www.ijcai.org/proceedings/2025/0296.pdf)
     > USTC. Xiaotian Pan, Junhao Fang, Feng Wu*, Sijia Zhang, Yi-Xiang Hu, Shaoang Li, Xiang-Yang Li∗.
@@ -158,13 +245,20 @@ Repository on the application of artificial intelligence technology in the field
 - LLaMoCo   
     > LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation, [openreview link](https://openreview.net/forum?id=EKCubxFdOs)
     > [Zeyuan Ma](https://openreview.net/profile?id=~Zeyuan_Ma1), [Hongshu Guo](https://openreview.net/profile?id=~Hongshu_Guo1), [Jiacheng Chen](https://openreview.net/profile?id=~Jiacheng_Chen4), [Zhiguang Cao](https://openreview.net/profile?id=~Zhiguang_Cao1), [Yining Ma](https://openreview.net/profile?id=~Yining_Ma1), [Yue-Jiao Gong](https://openreview.net/profile?id=~Yue-Jiao_Gong1)
+
 ## RL
+- MiniOPT: Reasoning to Model and Solve General Optimization Problems with Limited Resources
+    > [arXiv link](https://arxiv.org/abs/2606.25832)
+    > [Github Link](https://github.com/Hsiang-1/MiniOpt)
+
 - 2025.12 Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling
+    > Yitian Chen, Jingfan Xia, Siyu Shao, Dongdong Ge, and Yinyu Ye. 2026. Solver-informed RL: Grounding Large Language Models for Authentic Optimization Modeling. In The Thirty-ninth Annual Conference on Neural Information Processing Systems.
     > NIPS 2025, Openreview [link](https://openreview.net/forum?id=80L235oVBe). NISP [link](https://neurips.cc/virtual/2025/loc/san-diego/poster/119660).
     > [Yitian Chen](https://openreview.net/profile?id=~Yitian_Chen3), [Jingfan Xia](https://openreview.net/profile?id=~Jingfan_Xia1), [Siyu Shao](https://openreview.net/profile?id=~Siyu_Shao1), [Dongdong Ge](https://openreview.net/profile?id=~Dongdong_Ge2), [Yinyu Ye](https://openreview.net/profile?id=~Yinyu_Ye1)
 - 2025.11 OR-R1
+    > Zezhen Ding, Zhen Tan, Jiheng Zhang, and Tianlong Chen. 2026. Or-R1: Automating Modeling and Solving of Operations Research Optimization Problem via Test-Time Reinforcement Learning. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 40, pages 228–236.
+    > In addition, it improves the capability and consistency through Test-Time Group Relative Policy Optimization (TGRPO). This two-stage design enables OR-R1 to leverage both scarce labeled and abundant unlabeled data for effective learning.
     > AAAI2026 OR-R1: Automating Modeling and Solving of Operations Research Optimization Problem via Test-Time Reinforcement Learning. [ZhenTan](https://openreview.net/profile?id=~Zhen_Tan2), [Jiheng Zhang](https://openreview.net/profile?id=~Jiheng_Zhang1), [Tianlong Chen](https://openreview.net/profile?id=~Tianlong_Chen1). arXiv [link](https://arxiv.org/abs/2511.09092), Github [link](https://github.com/SCUTE-ZZ/OR-R1)
-- MiniOPT
 
 ## LLMs for Optimization in a specific domain
 - 2026.02  Beyond Pass-by-Pass Optimization: Intent-Driven IR Optimization with Large Language Models
@@ -195,64 +289,15 @@ Repository on the application of artificial intelligence technology in the field
     > ICML2025. OptMATH: A Scalable Bidirectional Data Synthesis Framework for Optimization Modeling.
     > icml [link](https://icml.cc/virtual/2025/poster/46227). openreview [link](https://openreview.net/forum?id=9P5e6iE4WK). [arXiv link](https://arxiv.org/abs/2502.11102), [Huggingface link](https://huggingface.co/datasets/Aurora-Gem/OptMATH-Train).
     > PKU. [Hongliang Lu](https://openreview.net/profile?id=~Hongliang_Lu3), [Zhonglin Xie](https://openreview.net/profile?id=~Zhonglin_Xie1), [Yaoyu Wu](https://openreview.net/profile?id=~Yaoyu_Wu1), [Can Ren](https://openreview.net/profile?id=~Can_Ren1), [Yuxuan Chen](https://openreview.net/profile?id=~Yuxuan_Chen22), **[Zaiwen Wen](https://openreview.net/profile?id=~Zaiwen_Wen1)**
-### Benchmarks
-- 2026.04 OptiVerse: A Comprehensive Benchmark towards Optimization Problem Solving
-    > https://arxiv.org/abs/2604.21510v1
-    > Authors: Xinyu Zhang, Boxuan Zhang, Yuchen Wan, Lingling Zhang, YiXing Yao, Bifan Wei, Yaqiang Wu, Jun Liu
-    > However, existing benchmarks focus narrowly on Mathematical Programming and Combinatorial Optimization, hindering comprehensive evaluation. To address this, we introduce **OptiVerse, a comprehensive benchmark of 1,000 curated problems spanning neglected domains, including Stochastic Optimization, Dynamic Optimization, Game Optimization, and Optimal Control**, across three difficulty levels: Easy, Medium, and Hard.
 
-- 2026.02 NIPLIB-NL
-    > Constructing Industrial-Scale Optimization Modeling Benchmark
-    > Authors list: Zhong Li, Hongliang Lu, Tao Wei, Wenyu Liu, Yuxuan Chen, Yuan Lan, Fan Zhang, Zaiwen Wen
-    > arXiv [link](https://arxiv.org/abs/2602.10450)
-
-- 2025.10 IndusCP (ConstraintLLM)
-    > ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming, [EMNLP ACL Page](https://aclanthology.org/2025.emnlp-main.809/), [arXiv link](https://arxiv.org/abs/2510.05774). [Github page](https://github.com/william4s/ConstraintLLM). Weichun Shi, [Minghao Liu](https://openreview.net/profile?id=~Minghao_Liu1), Wanting Zhang, Langchen Shi, Fuqi Jia, [Feifei Ma](https://openreview.net/profile?id=~Feifei_Ma1), [Jian Zhang](https://openreview.net/profile?id=~Jian_Zhang27). 
-- 2025.10 Bench4Opt
-    > from (ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling)
-    > [arXiv link](https://arxiv.org/abs/2510.27610), [Huggingface link](https://huggingface.co/papers/2510.27610)
-    > CUHK, Zhuohan Wang, Ziwei Zhu, Ziniu Li, Congliang Chen, Yizhou Han, Yufeng Lin, Zhihang Lin, Angyang Gu, Xinglin Hu, Ruoyu Sun, [Tian Ding](https://openreview.net/profile?id=~Tian_Ding1)
-
-- 2025.08 LogiOR
-    > Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning. [arXiv page](https://arxiv.org/abs/2508.14410). [Huggingface page](https://huggingface.co/datasets/LabMem012/LogiOR).
-    > [Beinuo Yang](https://openreview.net/profile?id=~Beinuo_Yang1) and [Qishen Zhou](https://openreview.net/profile?id=~Qishen_Zhou2) and [Junyi Li](https://openreview.net/profile?id=~Junyi_Li15) and Chenxing Su and [Simon Hu](https://openreview.net/profile?id=~Simon_Hu1).
-- 2025.07 OptMATH-Bench
-- 2025.06 DCP-Bench-Open: Evaluating LLMs for Constraint Modelling of Discrete Combinatorial Problems
-    > ECAI 2025, CP-Bench
-    > https://arxiv.org/abs/2506.06052v3
-    > Authors: Kostis Michailidis, Dimos Tsouros, Tias Guns
-
-- 2025.04 OptiBench
-- 2024.07 ICML 2024 Challenges on Automated Math Reasoning - Track 3: Automated Optimization Problem-Solving with Code
-    > https://www.codabench.org/competitions/2438
-- 2024.07 NLP4LP (OptiMUS)
-- 2024.05 Mamo
-    > Mamo: a Mathematical Modeling Benchmark with Solvers. [arxiv link](https://arxiv.org/abs/2405.13144v1)
-    > Github: [link](https://github.com/FreedomIntelligence/Mamo). [Huggingface link](https://huggingface.co/papers/2405.13144)
-- 2024.05 ComplexOR (CoE)
-    > pmlr-v235-ahmaditeshnizi24a 
-- 2024.05 IndustryOR (ORLM)
-- 2022.11 NL4OPT Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions
-    > NIPS 2022,pmlr-v220-ramamonjison23a
-- ICML.C
-- CO-BENCH
-    > CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization.
-    > Weiwei Sun, Shengyu Feng, Shanda Li, Yiming Yang (CMU). 
-    > [Github page](https://github.com/sunnweiwei/CO-Bench), [Huggingface page](https://huggingface.co/datasets/CO-Bench/CO-Bench)
-- OptiBench: Benchmarking Large Language Models in Optimization Modeling with Equivalence-Detection Evaluation
-    > [openreview link](https://openreview.net/forum?id=KD9F5Ap878)
-    > [Zhuohan Wang](https://openreview.net/profile?id=~Zhuohan_Wang3), [Ziwei Zhu](https://openreview.net/profile?id=~Ziwei_Zhu2), [Yizhou Han](https://openreview.net/profile?id=~Yizhou_Han1), [Yufeng Lin](https://openreview.net/profile?id=~Yufeng_Lin1), [Zhihang Lin](https://openreview.net/profile?id=~Zhihang_Lin4), [Ruoyu Sun](https://openreview.net/profile?id=~Ruoyu_Sun1), [Tian Ding](https://openreview.net/profile?id=~Tian_Ding1)
-- RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark
-    > [openreview link](https://openreview.net/forum?id=Becrgm5xAq)
-    > [Federico Berto](https://openreview.net/profile?id=~Federico_Berto1), [Chuanbo Hua](https://openreview.net/profile?id=~Chuanbo_Hua1), [Junyoung Park](https://openreview.net/profile?id=~Junyoung_Park1), [Laurin Luttmann](https://openreview.net/profile?id=~Laurin_Luttmann1), **[Yining Ma](https://openreview.net/profile?id=~Yining_Ma1)**, [Fanchen Bu](https://openreview.net/profile?id=~Fanchen_Bu1), [Jiarui Wang](https://openreview.net/profile?id=~Jiarui_Wang3), **[Haoran Ye](https://openreview.net/profile?id=~Haoran_Ye1)**, [Minsu Kim](https://openreview.net/profile?id=~Minsu_Kim2), [Sanghyeok Choi](https://openreview.net/profile?id=~Sanghyeok_Choi1), [Nayeli Gast Zepeda](https://openreview.net/profile?id=~Nayeli_Gast_Zepeda1), [André Hottung](https://openreview.net/profile?id=~Andr%C3%A9_Hottung1), [Jianan Zhou](https://openreview.net/profile?id=~Jianan_Zhou1), **[Jieyi Bi](https://openreview.net/profile?id=~Jieyi_Bi1)**, [Yu Hu](https://openreview.net/profile?id=~Yu_Hu11), **[Fei Liu](https://openreview.net/profile?id=~Fei_Liu14)**, [Hyeonah Kim](https://openreview.net/profile?id=~Hyeonah_Kim1), [Jiwoo Son](https://openreview.net/profile?id=~Jiwoo_Son2), [Haeyeon Kim](https://openreview.net/profile?id=~Haeyeon_Kim1), [Davide Angioni](https://openreview.net/profile?id=~Davide_Angioni1), [et al. (13 additional authors not shown)](https://openreview.net/forum?id=Becrgm5xAq#)
 ## Verification
 - 2026.05 OptArgus: A Multi-Agent System to Detect Hallucinations in LLM-based Optimization Modeling
-  > https://arxiv.org/abs/2605.11738v1
+  > [arXiv link: https://arxiv.org/abs/2605.11738v1](https://arxiv.org/abs/2605.11738v1)
   > Authors: Zhong Li, Zihan Guo, Xiaohan Lu, Juntao Wang, Jie Song, Chao Shen, Jiageng Wu, Mingyang Sun
   > We use this taxonomy to design OptArgus, a multi-agent detector with conductor routing, specialist auditors, and evidence consolidation. To evaluate this setting, we introduce a three-part benchmark suite with 
 484 clean artifacts, 1266 controlled injected artifacts, and 6292 natural LLM-generated artifacts. Against a matched single-agent baseline, OptArgus produces fewer false alarms on clean artifacts, more accurate top-ranked localization on controlled single-error cases, and stronger detection on natural model outputs.
 
-- 2025.11 An Agent-based Framework for the Automatic Validation of Mathematical Optimization Models. [arXiv link](https://arxiv.org/abs/2511.16383)
+- 2025.11 An Agent-based Framework for the Automatic Validation of Mathematical Optimization Models. [arXiv link: https://arxiv.org/abs/2511.16383](https://arxiv.org/abs/2511.16383)
 
 ## Theoretical Work
 - 2025.10 ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling
