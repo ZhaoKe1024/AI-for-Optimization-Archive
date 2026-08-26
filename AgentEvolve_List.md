@@ -1,6 +1,6 @@
 
 ## LLM-based Evolve
- - AlphaEvolve
+- AlphaEvolve
 
 - Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model
     > [openreview link](https://openreview.net/forum?id=BwAkaxqiLB)

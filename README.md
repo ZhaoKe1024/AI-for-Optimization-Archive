@@ -1,8 +1,6 @@
 # AI-for-Optimization-Repository
 Repository on the application of artificial intelligence technology in the field of optimization
 
-# LLM4OPT
-
 ## Survey
 [github link](https://github.com/BeinuoYang/Awesome-LLM4Opt)
 
@@ -11,11 +9,12 @@ Repository on the application of artificial intelligence technology in the field
     > Ziyang Xiao, Jingrong Xie, Lilin Xu, Shisi Guan, Jingyan Zhu, Xiongwei Han, Xiaojin Fu, WingYin Yu, Han Wu, Wei Shi, Qingcan Kang, Jiahui Duan, Tao Zhong, Mingxuan Yuan, Jia Zeng, Yuan Wang, Gang Chen, Dongxiang Zhang
 
 - Large Language Models in Operations Research: Methods, Applications, and Challenges
+    > [https://arxiv.org/abs/2509.18180](https://arxiv.org/abs/2509.18180)
+    > Yang Wang, Kai Li
 
 - 2026.05 Large Language Models for Operations Research: A Comprehensive Survey
     > Xianchao Xiu, Jianhao Li, Jun Fan, Wanquan Liu
     > [arXiv link](https://arxiv.org/abs/2605.20849)
-
 
 ### Benchmarks
 
@@ -32,18 +31,20 @@ Repository on the application of artificial intelligence technology in the field
     > Authors: Xinyu Zhang, Boxuan Zhang, Yuchen Wan, Lingling Zhang, YiXing Yao, Bifan Wei, Yaqiang Wu, Jun Liu
     > However, existing benchmarks focus narrowly on Mathematical Programming and Combinatorial Optimization, hindering comprehensive evaluation. To address this, we introduce **OptiVerse, a comprehensive benchmark of 1,000 curated problems spanning neglected domains, including Stochastic Optimization, Dynamic Optimization, Game Optimization, and Optimal Control**, across three difficulty levels: Easy, Medium, and Hard.
 
-- 2026.02 NIPLIB-NL
+- 2026.02 MIPLIB-NL
     > Constructing Industrial-Scale Optimization Modeling Benchmark
     > Authors list: Zhong Li, Hongliang Lu, Tao Wei, Wenyu Liu, Yuxuan Chen, Yuan Lan, Fan Zhang, Zaiwen Wen
     > arXiv [link](https://arxiv.org/abs/2602.10450)
-
+    > [Github link https://github.com/optsuite/MIPLIB-NL](https://github.com/optsuite/MIPLIB-NL)
+    
 - 2025.10 IndusCP (ConstraintLLM)
     > ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming, [EMNLP ACL Page](https://aclanthology.org/2025.emnlp-main.809/), [arXiv link](https://arxiv.org/abs/2510.05774). [Github page](https://github.com/william4s/ConstraintLLM). Weichun Shi, [Minghao Liu](https://openreview.net/profile?id=~Minghao_Liu1), Wanting Zhang, Langchen Shi, Fuqi Jia, [Feifei Ma](https://openreview.net/profile?id=~Feifei_Ma1), [Jian Zhang](https://openreview.net/profile?id=~Jian_Zhang27). 
 - 2025.10 Bench4Opt
     > from (ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling)
     > [arXiv link](https://arxiv.org/abs/2510.27610), [Huggingface link](https://huggingface.co/papers/2510.27610)
     > CUHK, Zhuohan Wang, Ziwei Zhu, Ziniu Li, Congliang Chen, Yizhou Han, Yufeng Lin, Zhihang Lin, Angyang Gu, Xinglin Hu, Ruoyu Sun, [Tian Ding](https://openreview.net/profile?id=~Tian_Ding1)
-
+- Reasoning in a Combinatorial and Constrained World: Benchmarking LLMs on Natural-Language Combinatorial Optimization
+    > [ArXiV link: https://arxiv.org/abs/2602.02188](https://arxiv.org/abs/2602.02188)
 - 2025.08 LogiOR
     > Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning. [arXiv page](https://arxiv.org/abs/2508.14410). [Huggingface page](https://huggingface.co/datasets/LabMem012/LogiOR).
     > [Beinuo Yang](https://openreview.net/profile?id=~Beinuo_Yang1) and [Qishen Zhou](https://openreview.net/profile?id=~Qishen_Zhou2) and [Junyi Li](https://openreview.net/profile?id=~Junyi_Li15) and Chenxing Su and [Simon Hu](https://openreview.net/profile?id=~Simon_Hu1).
@@ -52,7 +53,10 @@ Repository on the application of artificial intelligence technology in the field
     > ECAI 2025, CP-Bench
     > https://arxiv.org/abs/2506.06052v3
     > Authors: Kostis Michailidis, Dimos Tsouros, Tias Guns
-
+2025.10 Bench4Opt
+    > [arxiv_link: https://arxiv.org/abs/2510.27610](https://arxiv.org/abs/2510.27610)
+    > https://github.com/benchopt/benchOpt
+    > https://huggingface.co/datasets/ZiweiZhu0513/bench4opt
 - 2025.04 OptiBench
 - 2024.07 ICML 2024 Challenges on Automated Math Reasoning - Track 3: Automated Optimization Problem-Solving with Code
     > https://www.codabench.org/competitions/2438
@@ -132,6 +136,7 @@ Repository on the application of artificial intelligence technology in the field
 - 2026.01 LEAN-LLM-OPT
     > arXiv 2026: LLM for Large-Scale Optimization Model Auto-Formulation: Bridging Flexibility and Standardization via Agentic Workflow. Kuo Liang, Yuhang Lu, Jianming Mao, Shuyi Sun, Chunwei Yang, Congcong Zeng, Xiao Jin, [Hanzhang Qin](https://openreview.net/profile?id=~Hanzhang_Qin1), Ruihao Zhu, Chung-Piaw Teo. arXiv [link](https://arxiv.org/abs/2601.09635)
     > SSRN 2025: LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach. ssrn [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329027), Github [link](https://github.com/CoraLiang01/LEAN-LLM-OPT)
+    > Large-Scale Optimization Model Auto-Formulation: Harnessing LLM Flexibility via Structured Workflow. [arXiv link:https://arxiv.org/abs/2601.09635](https://arxiv.org/abs/2601.09635)
 - 2026.01 NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents
     > [arXiv link](https://arxiv.org/abs/2601.21372)
     > Authors: Yang Song, Anoushka Vyas, Zirui Wei, Sina Khoshfetrat Pakazad, Henrik Ohlsson, Graham Neubig
@@ -243,7 +248,7 @@ Repository on the application of artificial intelligence technology in the field
 - OptMATH
     > 
 - LLaMoCo   
-    > LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation, [openreview link](https://openreview.net/forum?id=EKCubxFdOs)
+    > LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation, [TEVC2026.08](https://ieeexplore.ieee.org/document/11359290), [arXiv link](https://arxiv.org/abs/2403.01131)
     > [Zeyuan Ma](https://openreview.net/profile?id=~Zeyuan_Ma1), [Hongshu Guo](https://openreview.net/profile?id=~Hongshu_Guo1), [Jiacheng Chen](https://openreview.net/profile?id=~Jiacheng_Chen4), [Zhiguang Cao](https://openreview.net/profile?id=~Zhiguang_Cao1), [Yining Ma](https://openreview.net/profile?id=~Yining_Ma1), [Yue-Jiao Gong](https://openreview.net/profile?id=~Yue-Jiao_Gong1)
 
 ## RL
@@ -316,7 +321,9 @@ Repository on the application of artificial intelligence technology in the field
 ## DeepLearning for Optimization
 - 2025.08 Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models, [ACM KDD link](https://dl.acm.org/doi/10.1145/3711896.3736923)
 
-
+- Light-MILPopt: Solving Large-scale Mixed Integer Linear Programs with Lightweight Optimizer and Small-scale Training Dataset.
+    > ICLR2024 [openreview link:https://openreview.net/forum?id=2oWRumm67L](https://openreview.net/forum?id=2oWRumm67L)
+    [Huigen Ye](https://openreview.net/profile?id=~Huigen_Ye1), Hua Xu, Hongyan Wang.
 
 - 2025.07 BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical Modeling Problem Solving
     > ACL 2025 [link](https://aclanthology.org/2025.acl-long.40/)
@@ -364,14 +371,14 @@ Repository on the application of artificial intelligence technology in the field
 
 
 ## LLMs for MILP Generation, Process, and Solving
-
-- 2025.05 [Code Retrieval for MILP Instance Generation](https://arxiv.org/abs/2505.11526)
-
-- 2025.05 Code Retrieval for MILP Instance Generation
-    > [arXiv link](https://arxiv.org/abs/2505.11526)
+- 2023.02 Generating Linear, Semidefinite, and Second-order Cone Optimization Problems for Numerical Experiments
+    [arXiv link: https://arxiv.org/abs/2302.00711](https://arxiv.org/abs/2302.00711)
+- 2025.05 MILP-Retrieval: Code Retrieval for MILP Instance Generation
+    > [arXiv link：https://arxiv.org/abs/2505.11526](https://arxiv.org/abs/2505.11526)
     > Tianxing Yang, Huigen Ye, Hua Xu
+    > ICLR 2026 Reject：Targeted MILP Instance Generation via Formulation Code Retrieval [openreview link](https://openreview.net/forum?id=09FE8nv4sV)
 
-- 2024.10 Towards Foundation Models for Mixed Integer Linear Programming
+- 2024.10 MILP-Evolve: Towards Foundation Models for Mixed Integer Linear Programming
     > ICLR 2025 Accept [openreview link](https://openreview.net/forum?id=6yENDA7J4G)
     > [Sirui Li](https://openreview.net/profile?id=~Sirui_Li1), [Janardhan Kulkarni](https://openreview.net/profile?id=~Janardhan_Kulkarni2), [Ishai Menache](https://openreview.net/profile?id=~Ishai_Menache1), [Cathy Wu](https://openreview.net/profile?id=~Cathy_Wu1), [Beibin Li 李辈滨](https://openreview.net/profile?id=~Beibin_Li1), arxiv [link](https://arxiv.org/abs/2410.08288)
 
@@ -379,15 +386,12 @@ Repository on the application of artificial intelligence technology in the field
     > ACM-MILP: adaptive constraint modification via grouping and selection for hardness-preserving MILP instance generation
     > [ACM page link](https://dl.acm.org/doi/10.5555/3692070.3692740), [Github link](https://github.com/Thinklab-SJTU/ACM-MILP), [zhihu blog page](https://zhuanlan.zhihu.com/p/12909271401)
     > Ziao Guo, Yang Li, Chang Liu, Wenli Ouyang, Junchi Yan
+    > [github link:https://github.com/Thinklab-SJTU/ACM-MILP](https://github.com/Thinklab-SJTU/ACM-MILP)
 
 - ARS Automatic Routing Solver with Large Language Models
     > Kai Li, Fei Liu, Zhenkun Wang, Xialiang Tong, Xiongwei Han, Mingxuan Yuan, Qingfu Zhang
-    > [openreview link](https://openreview.net/forum?id=Tw1kyA5akb)
+    > [arxiv link](https://arxiv.org/abs/2502.15359)
     > [Github link](https://github.com/Ahalikai/ARS-Routbench/blob/main/README.md)
-
-- Light-MILPopt: Solving Large-scale Mixed Integer Linear Programs with Lightweight Optimizer and Small-scale Training Dataset. [Huigen Ye](https://openreview.net/profile?id=~Huigen_Ye1), Hua Xu, Hongyan Wang. openreview [link](https://openreview.net/forum?id=2oWRumm67L)
-- Targeted MILP Instance Generation via Formulation Code Retrieval
-    > ICLR 2026 Reject [openreview link](https://openreview.net/forum?id=09FE8nv4sV)
 
 - ML4MILP: A Benchmark Dataset for Machine Learning-based Mixed-Integer Linear Programming
     > [openreview link](https://openreview.net/forum?id=ueeqGvQozB)
@@ -397,7 +401,7 @@ Repository on the application of artificial intelligence technology in the field
     > [Sijia Zhang](https://openreview.net/profile?id=~Sijia_Zhang2), [Fei Shang](https://openreview.net/profile?id=~Fei_Shang2), **[Feng Wu](https://openreview.net/profile?id=~Feng_Wu3)**, [Shaoang Li](https://openreview.net/profile?id=~Shaoang_Li1), [Xiangyang Li](https://openreview.net/profile?id=~Xiangyang_Li4),
     
 - MILP-StuDio: MILP Instance Generation via Block Structure Decomposition.
-    > [openreview link](https://openreview.net/forum?id=W433RI0VU4)
+    > [NIPS2024 Poster openreview link:https://openreview.net/forum?id=W433RI0VU4](https://openreview.net/forum?id=W433RI0VU4)
     > USTC. [Haoyang Liu](https://openreview.net/profile?id=~Haoyang_Liu2), **[Jie Wang](https://openreview.net/profile?id=~Jie_Wang1)**, [Wanbo Zhang](https://openreview.net/profile?id=~Wanbo_Zhang1), [Zijie Geng](https://openreview.net/profile?id=~Zijie_Geng1), **[Yufei Kuang](https://openreview.net/profile?id=~Yufei_Kuang1)**, [Xijun Li](https://openreview.net/profile?id=~Xijun_Li1), [Bin Li](https://openreview.net/profile?id=~Bin_Li8), [Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang2), **[Feng Wu](https://openreview.net/profile?id=~Feng_Wu1)**,
 
 
