@@ -451,3 +451,48 @@ How to apply optimization model to enhance the LLMs?
 
 # Some LLMs for Math
 - 2025.01 The Lessons of Developing Process Reward Models in Mathematical Reasoning. [arxiv link](https://arxiv.org/abs/2501.07301)
+
+
+## 正式收录信息（补充，2026-10-11 核查）
+
+以下为检索确认或由论文源码判定的正式收录信息（未列出者标记为 preprint）：
+
+| arXiv ID | 论文 | 正式收录 | 正式版 URL |
+|---|---|---|---|
+| 2508.10047 | A Survey of Optimization Modeling Meets LLMs | IJCAI2025 | https://www.ijcai.org/proceedings/2025/1192 |
+| 2601.19924 | OPT-Engine | ICML2026 | https://icml.cc/virtual/2026/poster/61027 |
+| 2604.21510 | OptiVerse | ACLFindings2026 | https://aclanthology.org/2026.findings-acl.150/ |
+| 2602.10450 | Constructing Industrial-Scale Optimization Modeling Benchmark (MIPLIB-NL) | ICML2026 | https://icml.cc/virtual/2026/poster/66779 |
+| 2510.05774 | ConstraintLLM | EMNLP2025 | https://aclanthology.org/2025.emnlp-main.809/ |
+| 2602.02188 | Reasoning in a Combinatorial and Constrained World | ACLFindings2026 | https://aclanthology.org/2026.findings-acl.1529/ |
+| 2508.14410 | ORThought / LogiOR | Artificial Intelligence for Transportation (Elsevier), 2026 | https://www.sciencedirect.com/science/article/abs/pii/S3050860626000141 |
+| 2506.06052 | DCP-Bench-Open | ECAI2025 | （README 已标注 ECAI 2025；官方 proceedings 页待补） |
+| 2405.13144 | Mamo / LLMs for Mathematical Modeling | NAACLFindings2025 | https://aclanthology.org/2025.findings-naacl.146/ |
+| 2502.14760 | EquivaMap | ICML2025 | https://icml.cc/virtual/2025/poster/44297 |
+| 2605.02545 | Strategy-Aware Optimization Modeling (SAGE) | ICML2026 | https://icml.cc/media/icml-2026/Slides/63774.pdf |
+| 2602.15983 | ReLoop | NeurIPS2026（依据源码 camera-ready：neurips_2026 main track） | （neurips.cc 页面待补） |
+| 2601.21372 | NEMO | ICML2026 | https://icml.cc/virtual/2026/poster/66684 |
+| 2510.05115 | SAC-Opt | ICML2026 | https://icml.cc/virtual/2026/poster/65386 |
+| 2510.22192 | OptiTree | NeurIPS2025 (NIPS2025) | https://openreview.net/forum?id=Ej20yjWMCj |
+| 2505.02091 | LLM-OptiRA | IEEE GLOBECOM 2025 Workshop (WS-31) | https://ieeexplore.ieee.org/document/11591140 |
+| 2410.12112 | Planning Anything with Rigor (LLMFP) | ICLR2025 | https://mlanthology.org/iclr/2025/hao2025iclr-planning/ |
+| 2509.22558 | StepORLM | ICLR2026 | https://openreview.net/forum?id=ZrgxU8WMmG |
+| 2506.17637 | Step-Opt | EMNLPFindings2025 | https://aclanthology.org/2025.findings-emnlp.691/ |
+| 2506.01326 | ORMind | ACLIndustry2025 | https://aclanthology.org/2025.acl-industry.10/ |
+| 2405.17743 | ORLM | Operations Research (INFORMS), 2025 | https://pubsonline.informs.org/doi/10.1287/opre.2024.1233 |
+| 2403.01131 | LLaMoCo | IEEE TEVC, 2026 (TEVC2026.08) | https://ieeexplore.ieee.org/document/11359290 |
+| 2511.09092 | OR-R1 | AAAI2026 | https://ojs.aaai.org/index.php/AAAI/article/view/36983 |
+| 2602.03070 | ProOPF | ICML2026 | https://icml.cc/virtual/2026/poster/63658 |
+| 2510.18428 | AlphaOPT | NeurIPS2025Workshop（README 标注；ICLR2026 reject） | https://openreview.net/forum?id=xEdavqGjRu |
+| 2502.11102 | OptMATH | ICML2025 | https://icml.cc/virtual/2025/poster/46227 |
+| 2302.00711 | Generating Linear, Semidefinite, and Second-order Cone Optimization Problems | Optimization Methods and Software, 2024 | https://doi.org/10.1080/10556788.2024.2308677 |
+| 2410.08288 | Towards Foundation Models for MILP (MILP-Evolve) | ICLR2025 | https://openreview.net/forum?id=6yENDA7J4G |
+| 2510.08049 | A Survey of Process Reward Models | ACL2026 | https://aclanthology.org/2026.acl-long.163/ |
+| 2501.07301 | The Lessons of Developing Process Reward Models | ACLFindings2025 | https://aclanthology.org/2025.findings-acl.547/ |
+### 备注
+- 上表以外的 arXiv 论文（如 OR-Space、FLARE、OptArgus、ORAgentBench、OptiRepair、COOPA、Agora-Opt、EvoOpt-LLM、ORPilot、NED-Tree、AutoOR、MiniOpt、LM4Opt-RA、Canonical IR、ARS、EvoCut、LinearizeLLM、NC2C、Beyond Pass-by-Pass、Morphing Time 等）暂未查到正式会议/期刊收录，CSV 中标记为 `preprint`。
+- 部分判定依据：OPT-Engine/MIPLIB-NL/NEMO/SAC-Opt/ProOPF 有 ICML 2026 官方 poster 页；ReLoop 的 LaTeX 源码为 NeurIPS 2026 camera-ready（main track），官方页面 URL 待补；SAGE 的正式版 URL 暂用 ICML 2026 官方 slides。
+- ORThought 的正式期刊为 Elsevier 新刊 *Artificial Intelligence for Transportation*（ISSN 3050-8606）。
+- DCP-Bench-Open 按本 README 原记录标记为 ECAI2025。
+- 以上信息已同步写入 `arxiv_papers.csv` 新增的 `venue` 与 `正式版url` 两列（位于 `arxiv_url` 右侧），其余原有列内容未改动。
+
