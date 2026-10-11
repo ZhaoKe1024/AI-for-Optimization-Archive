@@ -1,6 +1,10 @@
 # AI-for-Optimization-Repository
 Repository on the application of artificial intelligence technology in the field of optimization
 
+## tools
+- ./arxiv_papers.csv: arxiv papers related to optimization modeling
+- ./download_arxiv_sources.py: download src from arxiv.org
+
 ## Survey
 [github link](https://github.com/BeinuoYang/Awesome-LLM4Opt)
 
@@ -93,8 +97,21 @@ Repository on the application of artificial intelligence technology in the field
     > Yitian Chen, Cheng Cheng, Yinan Sun, Zi Ling, Dongdong Ge
     > [arXiv link: https://www.arxiv.org/abs/2601.19924](https://www.arxiv.org/abs/2601.19924)
 
+## Reformulation
+- 2026.09 Flare: Verifing MILP Reformulations with LLM-based Theorem Proving
+    > [arxiv link: https://arxiv.org/abs/2608.25220](https://arxiv.org/abs/2608.25220)
+    > FLARE, an LLM agent that uses Lean to prove that a given MILP reformulation is valid across all possible problem instances, not just those used for testing.
+    > [code and data link: https://flare.henryrobbins.com/](https://flare.henryrobbins.com/)
+
+- 2025.10 ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling
+    > [arXiv link](https://arxiv.org/abs/2510.27610), [Huggingface link](https://huggingface.co/papers/2510.27610)
+    > CUHK, Zhuohan Wang, Ziwei Zhu, Ziniu Li, Congliang Chen, Yizhou Han, Yufeng Lin, Zhihang Lin, Angyang Gu, Xinglin Hu, Ruoyu Sun, [Tian Ding](https://openreview.net/profile?id=~Tian_Ding1)
+- 2025.02 EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations
+    > ICML2025 Accept . [ICML page](https://icml.cc/virtual/2025/poster/44297). [openreview link](https://openreview.net/forum?id=jaCD2nEpyr). [arXiv link](https://arxiv.org/abs/2502.14760). [Github link](https://github.com/HumainLab/EquivaMap). [Huggingface link](https://huggingface.co/papers/2502.14760)
+    > [Haotian Zhai](https://openreview.net/profile?id=~Haotian_Zhai1), [Connor Lawless](https://openreview.net/profile?id=~Connor_Lawless1), [Ellen Vitercik](https://openreview.net/profile?id=~Ellen_Vitercik1), [Liu Leqi](https://openreview.net/profile?id=~Liu_Leqi1)
 
 ## LLM Workflow
+
 - 2026.05 Strategy-Aware Optimization Modeling with Reasoning LLMs
     > https://arxiv.org/abs/2605.02545v1
     > Authors: Ruiqing Zhao, Fengzhi Li, Yuan Zuo, Rui Liu, Yansong Liu, Yunfei Ma, Fanyu Meng, Junlan Feng
@@ -160,6 +177,10 @@ Repository on the application of artificial intelligence technology in the field
     > OptiMind: Teaching LLMs to Think Like Optimization Experts. [arxiv link](https://arxiv.org/abs/2509.22979).
     > Authors: Xinzhi Zhang, Zeyi Chen, Humishka Zope, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, **Sirui Li**
     > ICLR 2026 Reject [openreview link](https://openreview.net/forum?id=CvwLtwlraW).
+
+- 2025.08 EvoCut: Strengthening Integer Programs via Evolution-Guided Language Models
+    > [arxiv link: https://arxiv.org/abs/2508.11850](https://arxiv.org/abs/2508.11850)
+
 - 2025.07 Autoformulation of Mathematical Optimization Models Using LLMs
     > ICLR 2025 Reject , [openreview link](https://openreview.net/forum?id=107ZsHD8h7)
     > ICML 2025 Accept, [openreview link](https://openreview.net/forum?id=33YrT1j0O0)
@@ -305,12 +326,7 @@ Repository on the application of artificial intelligence technology in the field
 - 2025.11 An Agent-based Framework for the Automatic Validation of Mathematical Optimization Models. [arXiv link: https://arxiv.org/abs/2511.16383](https://arxiv.org/abs/2511.16383)
 
 ## Theoretical Work
-- 2025.10 ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling
-    > [arXiv link](https://arxiv.org/abs/2510.27610), [Huggingface link](https://huggingface.co/papers/2510.27610)
-    > CUHK, Zhuohan Wang, Ziwei Zhu, Ziniu Li, Congliang Chen, Yizhou Han, Yufeng Lin, Zhihang Lin, Angyang Gu, Xinglin Hu, Ruoyu Sun, [Tian Ding](https://openreview.net/profile?id=~Tian_Ding1)
-- 2025.02 EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations
-    > ICML2025 Accept . [ICML page](https://icml.cc/virtual/2025/poster/44297). [openreview link](https://openreview.net/forum?id=jaCD2nEpyr). [arXiv link](https://arxiv.org/abs/2502.14760). [Github link](https://github.com/HumainLab/EquivaMap). [Huggingface link](https://huggingface.co/papers/2502.14760)
-    > [Haotian Zhai](https://openreview.net/profile?id=~Haotian_Zhai1), [Connor Lawless](https://openreview.net/profile?id=~Connor_Lawless1), [Ellen Vitercik](https://openreview.net/profile?id=~Ellen_Vitercik1), [Liu Leqi](https://openreview.net/profile?id=~Liu_Leqi1)
+
 - Coherent Local Explanations for Mathematical Optimization
     > ICLR 2026 Reject
     > [openreview link](https://openreview.net/forum?id=vIcqXbhU0Y)
