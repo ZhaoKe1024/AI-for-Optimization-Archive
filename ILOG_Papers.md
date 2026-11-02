@@ -16,13 +16,32 @@
   - https://arxiv.org/abs/2606.05793
   - https://icml.cc/virtual/2026/poster/61813
   - https://openreview.net/forum?id=mii3Lo7N3W
+
 - DEFINED (KDD 2025)
+  - DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios
+  - Tongzhou Yu, Mingjia Li, Hong Qian, Wenkai Wang, Zongbao Zhang, Yaoyu Jiang, Xiangfeng Wang, Aimin Zhou, Jiajun Guo
+  - https://arxiv.org/abs/2606.07226
 
 - IntElicit
   - IntElicit: Eliciting and Assessing Contextualized Creativity via Dialogue Policy Optimization
   - Mingjia Li, Jin Wu, Hong Qian, Wenhao Huang, Yiyang Huang, Yiwen Zhang, Chanjin Zheng, Xiangfeng Wang, Aimin Zhou, Jiajun Guo
   - https://arxiv.org/abs/2606.12086
 
-## Optimization Modeling and Solving
-- LLMOPT (ICLR 2025)
+OptSkills
+  - OptSkills: Learning Generalizable Optimization Skills from Problem Archetypes via Cluster-Based Distillation
+  - Haochen Yang, Ke Zhao, Mengyuan Ma, Xingyu Lu, Xiangfeng Wang, Hong Qian
+  - https://arxiv.org/abs/2605.29829
 
+PCAT
+  - Paper-Level Computerized Adaptive Testing for High-Stakes Examination via Multi-Objective Optimization
+  - Authors: Mingjia Li, Junkai Tong, Yiyang Huang, Yifei Ding, Hong Qian, Aimin Zhou
+  - https://dl.acm.org/doi/10.1145/3711896.3737073
+
+SOO-Bench
+  - SOO-Bench: Benchmarks for Evaluating the Stability of Offline Black-Box Optimization 
+  - https://github.com/zhuyiyi-123/SOO-Bench
+
+BBTv2: Towards a Gradient-Free Future with Large Language Models
+  - https://arxiv.org/abs/2205.11200
+  - https://aclanthology.org/2022.emnlp-main.259/
+  - BBTv2: Towards a Gradient-Free Future with Large Language Models (Sun et al., EMNLP 2022)
