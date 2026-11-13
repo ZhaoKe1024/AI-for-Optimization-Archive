@@ -45,3 +45,30 @@ BBTv2: Towards a Gradient-Free Future with Large Language Models
   - https://arxiv.org/abs/2205.11200
   - https://aclanthology.org/2022.emnlp-main.259/
   - BBTv2: Towards a Gradient-Free Future with Large Language Models (Sun et al., EMNLP 2022)
+
+DOMOO
+
+IJCAI2026 DSEBO Automated Random Embedding for Practical Bayesian Optimization with Unknown Effective Dimension
+  > https://arxiv.org/abs/2605.23473
+```bibtex
+@inproceedings{ijcai2026p527,
+  title     = {Automated Random Embedding for Practical Bayesian Optimization with Unknown Effective Dimension},
+  author    = {Qian, Hong and Shu, Xiang and Xia, Xiang and Liu, Xuhui and Fu, Yangde and Liang, Bei and Wang, Huibin and Dou, Liang},
+  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on
+               Artificial Intelligence, {IJCAI-26}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Diego Calvanese},
+  pages     = {4732--4740},
+  year      = {2026},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2026/527},
+  url       = {https://doi.org/10.24963/ijcai.2026/527},
+}
+```
+
+IJCAI2025 Relation-Augmented Dueling Bayesian Optimization via Preference Propagation
+  > https://ijcai.org/proceedings/2025/740
+AAAI2023 High-Dimensional Dueling Optimization with Preference Embedding
+  > https://dl.acm.org/doi/abs/10.1609/aaai.v37i9.26335
+软件学报 基于动态批量评估的绿色无梯度优化方法研究
